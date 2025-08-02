@@ -26,7 +26,7 @@ x-casaos:
   main: flare
   store_app_id: flare
   author: BCT
-  category: WEB
+  category: Beyond Cloud Technology
   description:
     en_us: A lightweight, fast, and beautiful personal start page for your home lab, self-hosted services, and more.
     zh_cn: 轻量、快速、美观的个人导航页，适用于 HomeLab 或其他注重私密的场景。

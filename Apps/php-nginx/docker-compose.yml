@@ -26,7 +26,7 @@ x-casaos:
     - arm64
   main: php-nginx
   author: BCT
-  category: WEB
+  category: Beyond Cloud Technology
   description:
     en_us: A Docker application that combines PHP-FPM and Nginx to serve PHP websites. It provides a convenient setup for running PHP applications with an Nginx web server.
     zh_cn: 一个将PHP-FPM和Nginx结合起来为PHP网站提供服务的Docker应用。它为使用Nginx作为Web服务器运行PHP应用程序提供了便捷的设置。

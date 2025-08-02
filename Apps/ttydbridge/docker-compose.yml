@@ -28,7 +28,7 @@ x-casaos:
     - arm64
   main: ttydbridge
   store_app_id: ttydbridge
-  category: Developer
+  category: Beyond Cloud Technology
   author: BCT
   developer: Cp0204
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ttydbridge/icon.png

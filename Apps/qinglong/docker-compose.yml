@@ -36,7 +36,7 @@ x-casaos:
     - arm64
   main: qinglong
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: QingLong is a platform for managing and executing scheduled tasks for Python3, JavaScript, Shell, and Typescript scripts.
     zh_cn: 青龙是一个用于管理和执行Python3、JavaScript、Shell和Typescript脚本的定时任务平台。

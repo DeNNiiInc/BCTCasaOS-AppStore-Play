@@ -58,7 +58,7 @@ x-casaos:
     - arm
   main: sickchill-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: |
       SickChill is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.

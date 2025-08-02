@@ -24,7 +24,7 @@ x-casaos:
     - arm
     - arm64
   author: BCT
-  category: Cloud
+  category: Beyond Cloud Technology
   description:
     en_us: A file list program that supports multiple storage, powered by Gin and Solidjs.
     zh_cn: 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。

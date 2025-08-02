@@ -21,7 +21,7 @@ x-casaos:
   architectures:
     - amd64
   author: BCT
-  category: Dapps
+  category: Beyond Cloud Technology
   description:
     en_us: A self-hosted push notification service written in Go. It simplifies the sending and receiving of push notifications over multiple platforms.
     zh_cn: 一个使用Go编写的自托管推送通知服务。它简化了在多个平台上发送和接收推送通知的过程。

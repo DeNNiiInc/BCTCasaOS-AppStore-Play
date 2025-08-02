@@ -23,7 +23,7 @@ x-casaos:
     - amd64
     - arm64
   author: BCT
-  category: WEB
+  category: Beyond Cloud Technology
   description:
     en_us: BiliBiliTool is a tool that automatically performs tasks. When we forget to do a certain task, it is like a caring assistant that follows the commands we have given it in advance, helping us complete the planned tasks within the specified frequency and time range.
     zh_cn: BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。

@@ -41,7 +41,7 @@ x-casaos:
     - arm64
   main: clouddrive
   store_app_id: clouddrive
-  category: Cloud
+  category: Beyond Cloud Technology
   author: BCT
   developer: waytechcloudfs
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/clouddrive/icon.png

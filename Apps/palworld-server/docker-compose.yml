@@ -35,7 +35,7 @@ x-casaos:
     - arm64
   main: palworld-server
   store_app_id: palworld-server
-  category: Games
+  category: Beyond Cloud Technology
   author: BCT
   developer: thijsvanloef
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/palworld-server/icon.png

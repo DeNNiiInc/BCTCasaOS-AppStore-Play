@@ -50,7 +50,7 @@ x-casaos:
     - arm
   main: ombi-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
     zh_cn: Ombi是一个自托管的Web应用程序，它可以自动为您的共享Plex或Emby用户提供自助请求内容的功能！ Ombi可以链接到多个电视节目和电影DVR工具，为用户提供无缝的端到端体验。

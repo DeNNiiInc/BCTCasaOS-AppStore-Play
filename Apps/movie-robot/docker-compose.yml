@@ -36,7 +36,7 @@ x-casaos:
   main: movie-robot
   store_app_id: movie-robot
   author: CasaOS Team & Cp0204
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: |
       Movie Robot is a smart movie and TV show automation tool. It connects to your existing media server (Plex, Emby) and downloader, allowing you to subscribe to your favorite movies and TV shows. When there are updates, Movie Robot will notify your downloader to download and organize them into your library.

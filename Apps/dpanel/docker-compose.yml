@@ -30,7 +30,7 @@ x-casaos:
   main: dpanel
   store_app_id: dpanel
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: A Docker visualization management panel that provides complete container management functions. Easy-to-use full Chinese interface, container-based easy installation, and low resource consumption.
     zh_cn: Docker 可视化管理面板，提供完善的容器管理功能。全中文界面易于使用，基于容器易于安装，资源占用低。

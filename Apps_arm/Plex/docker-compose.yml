@@ -52,7 +52,7 @@ x-casaos:
     - arm
   main: plex-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster.
     zh_cn: Plex整理个人媒体库中的视频，音乐和照片，并将其流式传输到智能电视，流媒体盒子和移动设备。此容器打包为独立的Plex Media Server。一直以来，Plex的顶级优先级一直是简单的设计和批量操作，这意味着更快地完成任务。

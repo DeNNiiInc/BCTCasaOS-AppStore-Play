@@ -18,7 +18,7 @@ x-casaos:
   main: fake-ollama
   store_app_id: fake-ollama
   author: BCT
-  category: Developer
+  category: Beyond Cloud Technology
   description:
     en_us: A fake Ollama API server implementation, fully compatible with the Ollama API, supporting OpenAI compatible interfaces and streaming output. Simulates multiple DeepSeek-R1 models. Lightweight and easy to deploy.
     zh_cn: 一个模拟 Ollama API 的服务器实现，完全兼容 Ollama API，支持 OpenAI 兼容接口和流式输出。模拟多个 DeepSeek-R1 模型。轻量级，易于部署。

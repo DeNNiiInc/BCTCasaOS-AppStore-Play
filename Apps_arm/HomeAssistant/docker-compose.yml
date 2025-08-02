@@ -42,7 +42,7 @@ x-casaos:
     - arm
   main: homeassistant-arm
   author: CasaOS Team
-  category: Home Automation
+  category: Beyond Cloud Technology
   description:
     en_us: Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
     zh_cn: 开源的家庭自动化软件，将本地控制和隐私放在首位。由全球各地的爱好者和DIY爱好者组成的社区提供支持。适合在树莓派或本地服务器上运行。

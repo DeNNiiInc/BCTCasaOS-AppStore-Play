@@ -32,7 +32,7 @@ x-casaos:
   main: cups
   store_app_id: cups
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: CUPS (Common UNIX Printing System) is a modular printing system for Unix-like operating systems that allows a computer to act as a print server. It can accept print jobs from client computers, process them, and send them to the appropriate printer.
     zh_cn: CUPS（通用UNIX打印系统）是一个模块化的打印系统，适用于类Unix操作系统，允许计算机充当打印服务器。它可以接受来自客户端计算机的打印作业，处理它们并将其发送到适当的打印机。

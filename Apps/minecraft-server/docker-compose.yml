@@ -34,7 +34,7 @@ x-casaos:
   main: minecraft-server
   store_app_id: minecraft-server
   author: BCT
-  category: Games
+  category: Beyond Cloud Technology
   description:
     en_us: A Minecraft Server that will automatically download the latest stable version at startup. You can customize the server using environment variables.
     zh_cn: 一个 Minecraft 服务器，它将在启动时自动下载最新的稳定版本。您可以使用环境变量自定义服务器。

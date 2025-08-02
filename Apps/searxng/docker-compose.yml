@@ -36,7 +36,7 @@ x-casaos:
   main: searxng
   store_app_id: searxng
   author: BCT
-  category: WEB
+  category: Beyond Cloud Technology
   description:
     en_us: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
     zh_cn: SearXNG 是一款自由的互联网元搜索引擎，它汇聚来自多个搜索服务和数据库的结果。用户不会被追踪或分析。

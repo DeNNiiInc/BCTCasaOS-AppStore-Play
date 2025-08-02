@@ -58,7 +58,7 @@ x-casaos:
     - arm
   main: photoprism-arm
   author: CasaOS Team
-  category: Gallery
+  category: Beyond Cloud Technology
   description:
     en_us: PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud.
     zh_cn: PhotoPrism® 是一个基于 AI 的应用程序，用于浏览、组织和共享您的照片集。它利用最新的技术自动标记和查找图片，而不会干扰您。您可以在家中、私人服务器或云中运行它。

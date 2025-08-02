@@ -46,7 +46,7 @@ x-casaos:
     - arm
     - arm64
   author: BCT
-  category: WEB
+  category: Beyond Cloud Technology
   description:
     en_us: 'Supporting multi -file upload, simple countless data library, returning picture URL, Markdown, bbscode, html picture warehouse program. Demo: https://png.cm/'
     zh_cn: '支持多文件上传，简单无数据库，返回图片url、markdown、bbscode、html的一款图床程序，演示地址：https://png.cm/ '

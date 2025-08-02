@@ -34,7 +34,7 @@ x-casaos:
     - arm64
   main: filecodebox
   store_app_id: filecodebox
-  category: WEB
+  category: Beyond Cloud Technology
   author: BCT
   developer: vastsa
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/filecodebox/icon.png

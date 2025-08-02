@@ -26,7 +26,7 @@ x-casaos:
   main: webdav
   store_app_id: webdav
   author: bytemark
-  category: File Sync
+  category: Beyond Cloud Technology
   description:
     en_us: A simple WebDAV server.
     zh_cn: 一个简单的WebDAV服务器。

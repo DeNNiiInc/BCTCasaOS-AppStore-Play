@@ -73,7 +73,7 @@ x-casaos:
   main: chatnio
   store_app_id: chatnio
   author: BCT
-  category: Chat
+  category: Beyond Cloud Technology
   description:
     en_us: "Chat Nio is an all-in-one AI service management platform that offers comprehensive solutions for individual users, developers, and enterprises. We are committed to providing users with efficient, flexible, and powerful AI services."
     zh_cn: "Chat Nio 是一款 AI 一站式服务管理平台，提供面向个人用户、开发者和企业的全面解决方案。我们致力于为用户提供高效、灵活和强大的 AI 服务。"

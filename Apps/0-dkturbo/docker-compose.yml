@@ -29,7 +29,7 @@ x-casaos:
   main: 0-dkturbo
   store_app_id: 0-dkturbo
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: Docker image accelerator, automatically test the speed and apply the fastest image source. **Non-Chinese users don’t need to use**
     zh_cn: Docker 镜像加速器，自动测速和应用最快镜像源。

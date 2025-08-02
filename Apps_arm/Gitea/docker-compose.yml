@@ -54,7 +54,7 @@ x-casaos:
     - arm
   main: gitea-arm
   author: CasaOS Team
-  category: Developer
+  category: Beyond Cloud Technology
   description:
     en_us: Gitea is a community managed lightweight code hosting solution written in Go.
     zh_cn: Gitea 是一个由社区管理的轻量级代码托管解决方案，由 Go 编写。

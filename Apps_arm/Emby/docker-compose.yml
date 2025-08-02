@@ -71,7 +71,7 @@ x-casaos:
     - arm
   main: emby-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.
     zh_cn: 将所有的家庭视频，音乐和照片集中在一个地方从未如此简单。您的个人Emby服务器会自动转换和流媒体，以便在任何设备上播放。

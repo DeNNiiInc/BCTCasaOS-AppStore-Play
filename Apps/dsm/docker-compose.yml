@@ -29,7 +29,7 @@ x-casaos:
   architectures:
     - amd64
   main: dsm
-  category: File Sync
+  category: Beyond Cloud Technology
   author: BCT
   developer: vDSM
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dsm/icon.png

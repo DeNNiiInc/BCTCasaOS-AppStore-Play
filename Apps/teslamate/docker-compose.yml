@@ -94,7 +94,7 @@ x-casaos:
   main: teslamate
   store_app_id: teslamate
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: A self-hosted data logger for your Tesla 🚘. A powerful, self-hosted data logger for your Tesla. Written in Elixir. Data is stored in a Postgres database. Visualization and data analysis with Grafana. Vehicle data is published to a local MQTT Broker.
     zh_cn: 特斯拉汽车的自托管数据记录器 🚘。一个功能强大的特斯拉自托管数据记录器。使用 Elixir 编写。数据存储在 Postgres 数据库中。使用 Grafana 进行可视化和数据分析。车辆数据发布到本地 MQTT 代理。

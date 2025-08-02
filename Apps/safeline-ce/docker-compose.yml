@@ -124,7 +124,7 @@ x-casaos:
     - amd64
   main: mgt
   store_app_id: safeline-ce
-  category: WEB
+  category: Beyond Cloud Technology
   author: BCT
   developer: chaitin
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/safeline-ce/icon.png

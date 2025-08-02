@@ -22,7 +22,7 @@ x-casaos:
     - arm64
   main: lobe-chat
   store_app_id: lobe-chat
-  category: Chat
+  category: Beyond Cloud Technology
   author: BCT
   developer: LobeHub
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lobe-chat/icon.png

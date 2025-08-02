@@ -42,7 +42,7 @@ x-casaos:
     - arm64
   main: quark-auto-save
   store_app_id: quark-auto-save
-  category: Cloud
+  category: Beyond Cloud Technology
   author: BCT
   developer: Cp0204
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/quark-auto-save/icon.png

@@ -22,7 +22,7 @@ x-casaos:
   main: libretv
   store_app_id: libretv
   author: BCT
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: LibreTV is a lightweight, free online video search and viewing platform that provides content search and playback services from multiple video sources. No registration required, ready to use, supports access from multiple devices.
     zh_cn: LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。

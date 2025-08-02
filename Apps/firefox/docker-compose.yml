@@ -40,7 +40,7 @@ x-casaos:
     - arm64
   main: firefox
   store_app_id: firefox
-  category: WEB
+  category: Beyond Cloud Technology
   author: BCT
   developer: LinuxServer.io
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/firefox/icon.png

@@ -24,7 +24,7 @@ x-casaos:
   main: xray
   store_app_id: xray
   author: BCT
-  category: VPN
+  category: Beyond Cloud Technology
   description:
     en_us: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
     zh_cn: Xray，万物皆可穿透。它也是支持 XTLS 的最佳 v2ray-core，且完全兼容 v2ray-core 的配置。

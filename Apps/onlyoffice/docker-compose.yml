@@ -37,7 +37,7 @@ x-casaos:
     - arm64
   main: onlyoffice
   store_app_id: onlyoffice
-  category: Documents
+  category: Beyond Cloud Technology
   author: BCT
   developer: AscensioSystem
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/onlyoffice/icon.png

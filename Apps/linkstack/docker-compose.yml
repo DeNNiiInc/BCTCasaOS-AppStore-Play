@@ -33,7 +33,7 @@ x-casaos:
     - arm64
   main: linkstack
   store_app_id: linkstack
-  category: WEB
+  category: Beyond Cloud Technology
   author: yassinyl
   developer: LinkStackOrg
   description:

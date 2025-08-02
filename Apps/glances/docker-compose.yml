@@ -33,7 +33,7 @@ x-casaos:
   main: glances
   store_app_id: glances
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: Glances is a top system monitoring tool. It provides a large amount of information about your system resources, such as CPU usage, memory usage, network traffic, disk I/O, processes, and sensors.
     zh_cn: Glances 是一款顶级的系统监控工具。它提供了关于系统资源的大量信息，例如 CPU 使用率、内存使用率、网络流量、磁盘 I/O、进程和传感器。

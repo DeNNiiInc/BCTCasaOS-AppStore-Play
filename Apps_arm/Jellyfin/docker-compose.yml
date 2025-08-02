@@ -100,7 +100,7 @@ x-casaos:
     - arm
   main: jellyfin-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included.
     zh_cn: Jellyfin让您可以收集、管理和流媒体。在您的系统上运行Jellyfin服务器，即可获得免费软件娱乐系统的领先功能，包括铃声和装饰。

@@ -30,7 +30,7 @@ x-casaos:
     - arm
   main: calibre-web-arm
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself.
     zh_cn: Calibre-web是一个Web应用程序，提供了一个干净的界面，用于浏览，阅读和下载使用现有Calibre数据库的电子书。也可以通过应用程序本身集成谷歌驱动器并编辑元数据和您的calibre库。

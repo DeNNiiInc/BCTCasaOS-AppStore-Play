@@ -26,7 +26,7 @@ x-casaos:
     - arm64
   main: ollama-gpu
   store_app_id: ollama-gpu
-  category: Chat
+  category: Beyond Cloud Technology
   author: BCT
   developer: Ollama
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ollama/icon.png

@@ -37,7 +37,7 @@ x-casaos:
   architectures:
     - arm
   author: f4bio
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: motionEye is a web-based frontend for motion. Check out the wiki for more details. Changelog is available on the releases page. https://github.com/motioneye-project/motioneye
     zh_cn: motionEye是motion的基于Web的前端。查看Wiki以获取更多详细信息。更改日志请参阅发布页面。https://github.com/motioneye-project/motioneye

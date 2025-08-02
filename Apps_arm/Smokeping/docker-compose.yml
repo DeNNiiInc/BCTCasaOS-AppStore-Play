@@ -52,7 +52,7 @@ x-casaos:
     - arm
   main: smokeping-arm
   author: CasaOS Team
-  category: Network
+  category: Beyond Cloud Technology
   description:
     en_us: keeps track of your network latency.
     zh_cn: 用于跟踪您的网络延迟。

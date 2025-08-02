@@ -56,7 +56,7 @@ x-casaos:
     sv_se: Enkel filöverföring mellan olika plattformar.
     uk_ua: Проста пересилка файлів між платформами.
   author: self
-  category: Utilities
+  category: Beyond Cloud Technology
   hostname: ""
   index: /
   port_map: "89"

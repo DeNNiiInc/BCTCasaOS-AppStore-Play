@@ -27,7 +27,7 @@ x-casaos:
   main: samba
   store_app_id: samba
   author: BCT
-  category: File Sync
+  category: Beyond Cloud Technology
   description:
     en_us: Samba SMB server in a Docker container. An implementation of the Windows SMB networking protocol, allowing file sharing between Windows, Linux and macOS systems. [DOC](https://hub.docker.com/r/dockurr/samba)
     zh_cn: Docker 容器中的 Samba SMB 服务器。可以加密码🙃，实现了Windows SMB网络协议，允许在Windows、Linux和macOS系统之间共享文件。[文档](https://hub.docker.com/r/dockurr/samba)

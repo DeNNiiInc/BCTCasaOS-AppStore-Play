@@ -26,7 +26,7 @@ x-casaos:
     - amd64
   main: cosmos-server
   store_app_id: cosmos-server
-  category: Cloud
+  category: Beyond Cloud Technology
   author: BCT
   developer: azukaar
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cosmos-server/icon.png

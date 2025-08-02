@@ -95,7 +95,7 @@ x-casaos:
     - amd64
   main: orion-visor
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: Orion Visor is a high-value, modern intelligent operation and maintenance & lightweight bastion platform. Orion-visor provides a one-stop server operation and maintenance solution.
     zh_cn: Orion Visor 是一款颜值高、体验好的开源轻量级堡垒机，致力于提高运维效率，解放双手。支持常见Linux系统，强大的Web终端，完善的WEB管理界面，开箱即用。

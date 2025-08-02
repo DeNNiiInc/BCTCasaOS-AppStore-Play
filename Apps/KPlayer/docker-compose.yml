@@ -31,7 +31,7 @@ x-casaos:
     - amd64
     - arm64
   author: BCT
-  category: Network
+  category: Beyond Cloud Technology
   description:
     en_us: KPlayer can help you quickly perform looped live streaming of video resources on the server, simply customize the configuration file to enable live streaming.
     zh_cn: KPlayer 可以帮助你快速在服务器上进行视频资源的循环直播推流，只需要简单修改配置文件即可开启直播推流。

@@ -83,7 +83,7 @@ x-casaos:
     - arm
   main: syncthing-arm
   author: CasaOS Team
-  category: Backup
+  category: Beyond Cloud Technology
   description:
     en_us: Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
     zh_cn: Syncthing是一个持续的文件同步程序。它实时同步两台或多台计算机之间的文件，安全地保护免受窥视。您的数据是您自己的数据，您有权选择将其存储在何处，是否与第三方共享，以及如何通过互联网传输。

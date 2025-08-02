@@ -32,7 +32,7 @@ x-casaos:
   main: stirling-pdf
   store_app_id: stirling-pdf
   author: BCT
-  category: Documents
+  category: Beyond Cloud Technology
   description:
     en_us: Stirling PDF is a robust, locally hosted web-based PDF manipulation tool. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more.
     zh_cn: Stirling PDF 是一款功能强大的本地托管的基于 Web 的 PDF 操作工具。它使您能够对 PDF 文件执行各种操作，包括拆分、合并、转换、重新组织、添加图像、旋转、压缩等。

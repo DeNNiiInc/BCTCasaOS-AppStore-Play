@@ -25,7 +25,7 @@ x-casaos:
     - arm
     - arm64
   author: BCT
-  category: Network
+  category: Beyond Cloud Technology
   description:
     en_us: A fast reverse proxy server that helps you expose a local server to the internet. It provides client authentication and supports multiple protocols.
     zh_cn: 一个快速的反向代理服务器，可以帮助您将本地服务器暴露到互联网。它提供客户端认证并支持多种协议。

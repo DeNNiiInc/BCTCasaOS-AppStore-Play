@@ -23,7 +23,7 @@ x-casaos:
     - arm64
   main: adminer
   author: BCT
-  category: Database
+  category: Beyond Cloud Technology
   description:
     en_us: Adminer is a database management tool that allows you to manage your databases with a simple and intuitive interface.
       developer: Adminer

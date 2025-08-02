@@ -51,7 +51,7 @@ x-casaos:
   main: foxel
   store_app_id: foxel
   author: BCT
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: Foxel is a modern intelligent image retrieval and management system based on .NET 9, integrating advanced AI visual models and vector embedding technology to provide efficient image search and management functions.
     zh_cn: Foxel 是一个基于 .NET 9 开发的现代化智能图像检索与管理系统，集成先进的 AI 视觉模型 和 向量嵌入技术，提供高效的图像搜索与管理功能。

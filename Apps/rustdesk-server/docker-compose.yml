@@ -69,7 +69,7 @@ x-casaos:
     - amd64
   main: api
   store_app_id: rustdesk-server
-  category: Utilities
+  category: Beyond Cloud Technology
   author: BCT
   developer: rustdesk | lejianwen
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/rustdesk-server/icon.png

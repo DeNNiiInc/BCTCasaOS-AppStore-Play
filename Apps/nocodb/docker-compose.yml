@@ -34,7 +34,7 @@ x-casaos:
     - arm
     - arm64
   main: nocodb
-  category: WEB
+  category: Beyond Cloud Technology
   author: BCT
   developer: nocodb.com
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/nocodb/icon.png

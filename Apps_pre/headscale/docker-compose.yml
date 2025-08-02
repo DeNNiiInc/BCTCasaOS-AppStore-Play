@@ -77,7 +77,7 @@ networks:
 
 x-casaos:
   author: BCT
-  category: self
+  category: Beyond Cloud Technology
   description:
     en_us: An open source, self-hosted implementation of the Tailscale control server.
     zh_cn: 开源、自托管的 Tailscale 控制服务器。

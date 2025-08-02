@@ -72,7 +72,7 @@ x-casaos:
     - amd64
   main: web
   store_app_id: wordpress
-  category: WEB
+  category: Beyond Cloud Technology
   author: BCT
   developer: Automattic
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wordpress/icon.png

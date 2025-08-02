@@ -27,7 +27,7 @@ x-casaos:
     - arm64
     - amd64
   author: BCT
-  category: Media
+  category: Beyond Cloud Technology
   description:
     en_us: AutoFilm obtains video playback links from cloud disks through Webdav provided by Alist and generates Strm files, which can be recognized and played directly by audio and video media servers such as Jellyfin/Emby.
     zh_cn: AutoFilm 通过 Alist 提供的 Webdav 获取网盘视频播放链接并生成 Strm 文件，可被 Jellyfin/Emby 等影音媒体服务器识别并直接播放。

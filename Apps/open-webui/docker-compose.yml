@@ -28,7 +28,7 @@ x-casaos:
     - arm64
   main: open-webui
   store_app_id: open-webui
-  category: Chat
+  category: Beyond Cloud Technology
   author: BCT
   developer: tjbck
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/open-webui/icon.png

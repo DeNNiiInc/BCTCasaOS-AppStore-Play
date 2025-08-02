@@ -89,7 +89,7 @@ x-casaos:
   main: plant-it
   store_app_id: plant-it
   author: BCT
-  category: Home Automation
+  category: Beyond Cloud Technology
   description:
     en_us: Plant-it is a self-hosted gardening companion app. Useful for keeping track of plant care, receiving notifications about when to water plants, uploading plant images, and more.
     zh_cn: Plant-it是一个自托管的园艺伴侣应用程序。 对于跟踪植物护理、接收有关何时给植物浇水的通知、上传植物图像等非常有用。

@@ -24,7 +24,7 @@ x-casaos:
   main: surveyking
   store_app_id: surveyking
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: SurveyKing is an open-source survey, exam, and voting system with features comparable to commercial systems.
     zh_cn: SurveyKing 是一款开源的调查问卷、考试和投票系统，其功能可与商业系统相媲美。

@@ -26,7 +26,7 @@ x-casaos:
   main: openlist
   store_app_id: openlist
   author: BCT
-  category: File Sync
+  category: Beyond Cloud Technology
   description:
     en_us: A file list program that supports multiple storages, powered by Gin and SolidJS, fork of AList.
     zh_cn: 一个支持多存储的文件列表程序，使用 Gin 和 SolidJS，基于 AList 项目 fork 开发

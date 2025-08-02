@@ -20,7 +20,7 @@ x-casaos:
     - amd64
   main: excalidraw
   author: BCT
-  category: Utilities
+  category: Beyond Cloud Technology
   description:
     en_us: Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams, illustrate ideas, and create beautiful illustrations remotely.
     zh_cn: Excalidraw是一款虚拟协作白板工具，可以让您轻松绘制图表、阐明思想和远程创建精美的插图。

@@ -83,7 +83,7 @@ x-casaos:
     - amd64
   main: affine
   author: BCT
-  category: Documents
+  category: Beyond Cloud Technology
   description:
     en_us: A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
     zh_cn: AFFiNE 是一个注重隐私、本地优先、开源且即时可用的 Notion 和 Miro 替代方案。这是一个专为狂野创意人士打造的超融合平台。AFFiNE 是一个下一代知识库，它将计划、分类和创建融为一体。隐私至上，开源，可定制，开箱即用。

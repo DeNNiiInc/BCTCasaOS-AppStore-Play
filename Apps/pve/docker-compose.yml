@@ -55,7 +55,7 @@ x-casaos:
   main: pve
   store_app_id: pve
   author: BCT
-  category: "Utilities"
+  category: Beyond Cloud Technology
   description:
     en_us: Proxmox VE is a complete open-source platform for enterprise virtualization. It integrates the KVM hypervisor and LXC containers, software-defined storage, and networking functionality on a single platform.
     zh_cn: Proxmox VE 是一个完整的企业虚拟化开源平台。它在单个平台上集成了 KVM 虚拟机管理程序和 LXC 容器、软件定义存储和网络功能。
