@@ -8,8 +8,7 @@
 <summary>Network Optimization for Mainland China</summary>
 
 > After adding this software source to CasaOS, install the `dkTurbo` app and start it to apply the Docker image source with one click, solving the issue of being stuck (fail to pull images) when installing apps in China since 20240606.
->
-> CasaOS add this software source, then install and start `dkTurbo` to quickly apply Docker image source and resolve stuck installation (image pull failure) in China after 20240606.
+
 
 ```bash
 # CasaOS Beginner Helper Script
