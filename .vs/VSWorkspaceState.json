@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Apps",
-    "\\Apps\\tp-link-omada-controller",
-    "\\Apps\\uisp",
-    "\\Apps\\unifi-network-application",
-    "\\Apps\\unifi-network-application-mongo-4"
+    "\\Apps\\cloudflared-web",
+    "\\Apps\\paperless-ngx",
+    "\\Apps\\vscode"
   ],
-  "SelectedNode": "\\Apps\\uisp\\docker-compose.yml",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

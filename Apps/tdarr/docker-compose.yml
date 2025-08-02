@@ -1,0 +1,93 @@
+﻿version: "3.8"
+services:
+  tdarr:
+    image: ghcr.io/haveagitgat/tdarr:latest
+    container_name: tdarr
+    restart: unless-stopped
+    environment:
+      - TZ=Australia/Melbourne
+      - PUID=1000
+      - PGID=1000
+      - UMASK_SET=002
+      - inContainer=true
+      - FFMPEG_VERSION=7 # Optional: set ffmpeg version for server
+      # - serverIP=0.0.0.0           # Not needed for server, only for node
+      - serverPort=8266            # Optional: default is 8266
+      - webUIPort=8265             # Optional: default is 8265
+      - ffmpegPath=/usr/local/bin/ffmpeg # Optional: custom ffmpeg path
+      - ffprobePath=/usr/local/bin/ffprobe # Optional: custom ffprobe path
+    ports:
+      - "8265:8265" # Web UI
+      - "8266:8266" # Server <-> Node
+    volumes:
+      - /DATA/AppData/tdarr/config:/app/configs
+      - /DATA/AppData/tdarr/server:/app/server
+      - /DATA/Media:/media
+      # Intel Quick Sync (onboard GPU) support:
+      - /dev/dri:/dev/dri
+    # NVIDIA GPU support (uncomment the following lines if using NVIDIA GPU):
+    # runtime: nvidia
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+
+  tdarr-node:
+    image: ghcr.io/haveagitgat/tdarr_node:latest
+    container_name: tdarr-node
+    restart: unless-stopped
+    environment:
+      - TZ=Australia/Melbourne
+      - PUID=1000
+      - PGID=1000
+      - UMASK_SET=002
+      - inContainer=true
+      - serverIP=tdarr
+      - serverPort=8266
+      - nodeID=MyTdarrNode
+      - NODE_FFMPEG_VERSION=7 # Optional: set ffmpeg version for node
+      - ffmpegPath=/usr/local/bin/ffmpeg # Optional: custom ffmpeg path
+      - ffprobePath=/usr/local/bin/ffprobe # Optional: custom ffprobe path
+    depends_on:
+      - tdarr
+    volumes:
+      - /DATA/AppData/tdarr/config:/app/configs
+      - /DATA/AppData/tdarr/server:/app/server
+      - /DATA/Media:/media
+      # Intel Quick Sync (onboard GPU) support:
+      - /dev/dri:/dev/dri
+    # NVIDIA GPU support (uncomment the following lines if using NVIDIA GPU):
+    # runtime: nvidia
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+
+x-casaos:
+  title:
+    en_us: "Tdarr"
+    zh_cn: "Tdarr"
+  category: "Beyond Cloud Technology"
+  architectures:
+    - amd64
+    - arm64
+  main: tdarr
+  store_app_id: tdarr
+  author: BCT
+  developer: haveagitgat
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/icon.png
+  screenshot_link:
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/screenshot-3.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/thumbnail.png
+  description:
+    en_us: "Tdarr is a distributed transcoding system for automating media library management."
+    zh_cn: "Tdarr 是一个分布式转码系统，用于自动化媒体库管理。"
+  tagline:
+    en_us: "Distributed media transcoding"
+    zh_cn: "分布式媒体转码"
+  tips:
+    before_install:
+      en_us: ""
+      zh_cn: ""
+    custom: ""
+  port_map: 8265
+  scheme: http
+  index: /
