@@ -6,7 +6,6 @@
 
 🔽 [App List](#app-list--)
 
-[This is an external link to genome.gov](https://www.google.com/)
 
 <details>
 <summary>Network Optimization for Mainland China</summary>
