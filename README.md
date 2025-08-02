@@ -2,7 +2,7 @@
 
 🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
 
-##Big thanks to the Upstream developer Cp0204, who has been maintaining this app store for a long time.
+## Big thanks to the Upstream developer Cp0204, who has been maintaining this app store for a long time.
 This is a third-party app store for CasaOS, providing a variety of applications that are not available in the official AppStore. It includes niche featured apps and supports multi-architecture deployments.
 
 
