@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\typecho\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apps\\typecho\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\ddns-go\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apps\\ddns-go\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\0-dkturbo\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apps\\0-dkturbo\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Tools\\casaos_newbie.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tools\\casaos_newbie.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\typecho\\docker-compose.yml",
-              "RelativeDocumentMoniker": "Apps\\typecho\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\typecho\\docker-compose.yml",
-              "RelativeToolTip": "Apps\\typecho\\docker-compose.yml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswCcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-02T10:17:16.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\ddns-go\\docker-compose.yml",
-              "RelativeDocumentMoniker": "Apps\\ddns-go\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\ddns-go\\docker-compose.yml",
-              "RelativeToolTip": "Apps\\ddns-go\\docker-compose.yml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswB0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-02T10:12:06.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\0-dkturbo\\docker-compose.yml",
-              "RelativeDocumentMoniker": "Apps\\0-dkturbo\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\0-dkturbo\\docker-compose.yml",
-              "RelativeToolTip": "Apps\\0-dkturbo\\docker-compose.yml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAWwB8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-02T10:08:14.459Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -98,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "casaos_newbie.sh",
+              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Tools\\casaos_newbie.sh",
+              "RelativeDocumentMoniker": "Tools\\casaos_newbie.sh",
+              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Tools\\casaos_newbie.sh",
+              "RelativeToolTip": "Tools\\casaos_newbie.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsBAAAgAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-08-02T10:22:35.434Z",
+              "EditorCaption": ""
             }
           ]
         }

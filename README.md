@@ -1,6 +1,9 @@
 # CasaOS-AppStore-Play
 
 🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
+Big thanks to the Upstream developer Cp0204, who has been maintaining this app store for a long time.
+This is a third-party app store for CasaOS, providing a variety of applications that are not available in the official AppStore. It includes niche featured apps and supports multi-architecture deployments.
+
 
 
 🔽 [App List](#app-list--)
@@ -39,7 +42,8 @@ https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/archive/refs/heads/main.zip
 This is just a generic version, please add the following sources corresponding to the architecture for best support if possible.
 
 
-### Arch-specific Source
+### Arm-specific Source
+- Please note that the ARM section is the work of the upstream developer Cp0204, and the following links are provided for convenience. If you have any issues with these sources, please contact the upstream developer.
 
 - **arm/armv7/armhf** (Wankeyun, etc.)
 
