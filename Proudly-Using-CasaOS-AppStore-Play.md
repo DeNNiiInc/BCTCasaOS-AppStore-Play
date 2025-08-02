@@ -1,63 +1,63 @@
-# 自豪地使用 CasaOS-AppStore-Play
+# Proudly Using CasaOS-AppStore-Play
 
-> This article is written in Simplified Chinese, which the author is familiar with, and users of other languages are advised to use their own translation tools to read it.
+> This article is written in Simplified Chinese, which the author is familiar with. Users of other languages are advised to use their own translation tools to read it.
 
-在创建本商店之前，我在本地保存 docker-compose.yml 文件作为 Docker 应用的备份方案。在 CasaOS 支持第三方商店后，我想仓库既可以当做备份，又能作为应用商店把 Docker 应用分享给大家，这不是两全其美吗？
+Before creating this store, I used to save docker-compose.yml files locally as a backup solution for Docker applications. After CasaOS supported third-party stores, I thought: why not let the repository serve as both a backup and an app store to share Docker apps with everyone? Wouldn't that be the best of both worlds?
 
-鲁迅说得好，自己动手，丰衣足食。所以你可以感受到这个商店的特点：
+As Lu Xun said, "Do it yourself, and you will have ample food and clothing." So you can feel the characteristics of this store:
 
-- **极具个人偏好的**
-- **具有本地特色的**
-- **尽善尽美的**
+- **Highly personal preferences**
+- **Locally distinctive**
+- **Striving for perfection**
 
-在维护过程中，我逐步完善了商店的功能，并积累了不少技术细节，我觉得有必要将它们记录下来。
+During maintenance, I gradually improved the store’s features and accumulated many technical details, which I felt necessary to document.
 
-## 自动打包发布
+## Automatic Packaging and Release
 
-**问题：** 在三方商店推行之初，官方示例是下载整个仓库 zip 文件的。但是它包含了应用图标、预览图等图片文件，导致**体积过大，网络不顺畅时下载需要等待很久**。而且 CasaOS AppStore 的机制并不使用本地图片资源。
+**Problem:** When third-party stores were first promoted, the official example was to download the entire repository as a zip file. However, it included image files such as app icons and previews, resulting in **an excessively large size and long download times when the network is unstable**. Moreover, CasaOS AppStore's mechanism does not use local image resources.
 
-**解决：** 使用 GitHub Actions 将仓库打包成 Releases 并进行过滤，只包含 json 和 yml 文件作为商店源文件（以下简称源文件），将源文件精简到几百 KB。
+**Solution:** Use GitHub Actions to package the repository into Releases and filter it to only include json and yml files as store source files (hereinafter referred to as source files), reducing the source files to just a few hundred KB.
 
-## 分架构打包
+## Architecture-Specific Packaging
 
-**问题：**  由于 [LinuxServer 放弃支持 armv7 镜像](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)，而国内有众多玩客云用户，为了满足这部分用户的需求，May@IceWhale 找到我，希望借社区的力量做一个**支持 armv7 的商店**。我考虑到必然会有部分应用重叠，而且需要重复维护，因此我并没有立即响应。半天后，我想到一个比较优雅的方案：在一个仓库内，根据架构分别打包，这样就可以减少重复维护的工作量。
+**Problem:** Due to [LinuxServer dropping support for armv7 images](https://www.linuxserver.io/blog/a-farewell-to-arm-hf), and the existence of many Wankeyun users in China, May@IceWhale reached out to me, hoping to build a **store supporting armv7** with the help of the community. I realized that there would inevitably be some overlapping apps and repeated maintenance, so I did not respond immediately. Half a day later, I thought of a more elegant solution: package separately by architecture within one repository, thereby reducing the workload of repeated maintenance.
 
-**解决：**
+**Solution:**
 
-1. 以 Apps 目录为基础，打包 armv7 架构时，将 Apps_arm 目录下的 .yml 文件复制并覆盖 Apps 目录下的同名文件。
-2. 在压缩成 zip 文件时，通过识别 `x-casaos: architectures: - arm`  字段来过滤，实现只打包支持 armv7 的 .yml 文件的目的。
-3. 将三种架构 (amd64, arm64, arm) 分别打包，提供专属架构源。
+1. Based on the Apps directory, when packaging for the armv7 architecture, copy and overwrite yml files from Apps_arm directory to the Apps directory.
+2. When compressing into a zip file, filter by the `x-casaos: architectures: - arm` field to only package yml files supporting armv7.
+3. Package three architectures (amd64, arm64, arm) separately and provide dedicated architecture sources.
 
-添加专属架构源有两个好处：一是可以某些应用可以提供专属架构的镜像支持；二是添加后商店中只出现本架构支持的应用，这是目前最佳的解决方案。
+There are two benefits to adding architecture-specific sources: first, some applications can provide architecture-specific image support; second, only apps supported by the current architecture appear in the store, which is currently the best solution.
 
-## 源文件同步上传到 OSS
+## Source File Sync Upload to OSS
 
-**问题：** 为了避免我个人使用的域名被公开传播，商店源一直使用的是 eu.org 免费域名。然而，在国内部分地区部分运营商的网络环境下，**eu.org 域名会受到 DNS 污染**，根据部分用户反馈，添加源时会出现“假成功”的提示，实际无法加载源的内容。
+**Problem:** To avoid my personal domain being publicly shared, the store source has been using the free eu.org domain. However, in some regions and with some network operators in China, **the eu.org domain suffers from DNS pollution**. According to some user feedback, adding the source shows a "false success" message, but the source content cannot actually be loaded.
 
-**解决：** 将 zip 文件同步上传到阿里云 OSS，为这部分用户提供有限的服务。
+**Solution:** Sync the zip file to Alibaba Cloud OSS to provide limited service for these users.
 
-## 发布时统计应用数
+## Application Count on Release
 
-**问题：** 原本发布 Releases 时只显示最后一条 commit message，**期间更新了什么不够清晰**。
+**Problem:** Previously, only the last commit message was shown when publishing Releases, **making it unclear what was updated during that period**.
 
-**解决：** 在 GitHub Actions 中增加 `Get Commit Messages` 步骤，方便用户查看，输出更详细的发布内容，并根据 yml 文件统计相应架构的应用数量。
+**Solution:** Add a `Get Commit Messages` step in GitHub Actions to allow users to view more detailed release notes and count the number of apps for each architecture based on yml files.
 
-## 使用 CDN 加速
+## Using CDN Acceleration
 
-**问题：** 源文件原本是使用 Cloudflare Worker 从 GitHub 拉取源文件做转发，但是随着用户数增多（根据 CF 的数据统计，24小时内独立访问者13.41k，请求 1.65M(million百万)，提供数据31GB），**远远超出了免费计划的请求限制**。
+**Problem:** The source file was originally fetched from GitHub via Cloudflare Worker for forwarding. But as the user base grew (according to CF statistics, 13.41k unique visitors and 1.65 million requests in 24 hours, providing 31GB of data), **this far exceeded the free plan's request limit**.
 
-**解决：** 将源文件转移到阿里云 OSS，并为了缓解 OSS 的流量压力，叠加了 Cloudflare 免费的 CDN 加速。实测只有在每次更新源文件后会有短暂的流出流量，其余时候都由 Cloudflare 提供流量。 并且在 GitHub Actions 中增加了每次更新源文件后调用 Cloudflare API 清除 CDN 缓存的步骤，让 CDN 及时从 OSS 获取最新的源文件。
+**Solution:** Move the source file to Alibaba Cloud OSS, and to ease OSS traffic pressure, stack Cloudflare's free CDN acceleration. Testing shows that only a brief traffic burst occurs after each source file update; otherwise, Cloudflare serves almost all traffic. Also, a step was added in GitHub Actions to call the Cloudflare API to purge CDN cache after each source file update, ensuring CDN fetches the latest source file from OSS in time.
 
-## 只在必要时重新发布
+## Only Republish When Necessary
 
-**问题：** 原本是 GitHub Actions 设置提交就自动发布，有时可能只更改了 README.md 或图片，**zip 的内容并没有改变，也重新发布，同时下游又重新拉取，造成资源浪费**。
+**Problem:** Previously, GitHub Actions was set to publish automatically on every commit, but sometimes only README.md or images changed, **yet the zip content didn't change, still triggering a republish and downstream pull, wasting resources**.
 
-**解决：** 将 Actions 的触发条件改为 `push: paths:` ，当 `*.yml` 文件有提交时才会重新发布。
+**Solution:** Change Actions trigger to `push: paths:`, so it only republishes when `*.yml` files are committed.
 
-## 最后
+## Finally
 
-截至目前商店 90+ 应用，基本都是我亲自安装体验过。
+As of now, the store has 90+ apps, almost all of which I have installed and tried personally.
 
-以上，记录下来供后人借鉴，不仅是一个应用商店的建设历程，还是我对社区贡献的一份心力，永远保持对最优解的思考。
+The above is documented for future reference—not just a record of building an app store, but also a contribution to the community, always thinking about the best solution.
 
-希望通过 CasaOS-AppStore-Play ，能让更多人感受到便捷部署应用的乐趣，并参与到 Docker 生态的共建中。 💕
+I hope that through CasaOS-AppStore-Play, more people can experience the joy of easy app deployment and participate in the co-construction of the Docker ecosystem. 💕
