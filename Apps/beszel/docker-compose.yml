@@ -19,7 +19,7 @@ services:
 
     # Volumes to be mounted to the container
     volumes:
-      - /DATA/AppData/$AppID/data:/beszel_data
+      - /DATA/AppData/beszel/data:/beszel_data
 
     # Ports mapping between host and container
     ports:

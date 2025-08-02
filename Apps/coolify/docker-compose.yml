@@ -79,13 +79,13 @@ services:
     # Mount necessary volumes for accessing system information
     volumes:
       # ssh-keygen -f /DATA/AppData/big-bear-coolify/ssh/keys/id.root@host.docker.internal -t ed25519 -N '' -C root@coolify
-      - /DATA/AppData/$AppID/ssh:/var/www/html/storage/app/ssh
-      - /DATA/AppData/$AppID/applications:/var/www/html/storage/app/applications
-      - /DATA/AppData/$AppID/databases:/var/www/html/storage/app/databases
-      - /DATA/AppData/$AppID/services:/var/www/html/storage/app/services
-      - /DATA/AppData/$AppID/backups:/var/www/html/storage/app/backups
-      - /DATA/AppData/$AppID/webhooks-during-maintenance:/var/www/html/storage/app/webhooks-during-maintenance
-      - /DATA/AppData/$AppID/logs:/var/www/html/storage/logs
+      - /DATA/AppData/coolify/ssh:/var/www/html/storage/app/ssh
+      - /DATA/AppData/coolify/applications:/var/www/html/storage/app/applications
+      - /DATA/AppData/coolify/databases:/var/www/html/storage/app/databases
+      - /DATA/AppData/coolify/services:/var/www/html/storage/app/services
+      - /DATA/AppData/coolify/backups:/var/www/html/storage/app/backups
+      - /DATA/AppData/coolify/webhooks-during-maintenance:/var/www/html/storage/app/webhooks-during-maintenance
+      - /DATA/AppData/coolify/logs:/var/www/html/storage/logs
 
     # Map port 8080 on the host to port 80 on the container
     ports:
@@ -300,7 +300,7 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - /DATA/AppData/$AppID/pgdata:/var/lib/postgresql/data
+      - /DATA/AppData/coolify/pgdata:/var/lib/postgresql/data
     environment:
       POSTGRES_USER: "coolify"
       POSTGRES_PASSWORD: "f1986213-9d72-4c36-bbd4-adca2f414fa1"
@@ -349,7 +349,7 @@ services:
     environment:
       REDIS_PASSWORD: "9e3df6aa-ea48-4e59-a9c4-59798f1ba9b4"
     volumes:
-      - /DATA/AppData/$AppID/redis:/data
+      - /DATA/AppData/coolify/redis:/data
     healthcheck:
       test: redis-cli ping
       interval: 5s
