@@ -54,7 +54,7 @@ x-casaos:
   author: BCT
   developer: linkace
   category: Beyond Cloud Technology
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/LinkAce/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/LinkAce/icon.png
   store_app_id: linkace
   description:
     en_us: Manage your bookmarks, links, and reading list with ease using LinkAce. Access your links from anywhere with a web browser.
@@ -69,7 +69,7 @@ x-casaos:
 
         1. Create the **.env** file before installation and run it on the host machine
 
-        `mkdir -p /DATA/AppData/linkace ; wget -O /DATA/AppData/linkace/.env https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ LinkAce/.env ; chmod 666 /DATA/AppData/linkace/.env`
+        `mkdir -p /DATA/AppData/linkace ; wget -O /DATA/AppData/linkace/.env https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ LinkAce/.env ; chmod 666 /DATA/AppData/linkace/.env`
 
 
         2. For security, customize the database password after installation, change the **DB_PASSWORD** field in the **.env** file and the Docker environment variable.
@@ -84,7 +84,7 @@ x-casaos:
 
         1. 安装前建立 **.env** 文件，在宿主机运行
 
-        `mkdir -p /DATA/AppData/linkace ; wget -O /DATA/AppData/linkace/.env https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/LinkAce/.env ; chmod 666 /DATA/AppData/linkace/.env`
+        `mkdir -p /DATA/AppData/linkace ; wget -O /DATA/AppData/linkace/.env https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/LinkAce/.env ; chmod 666 /DATA/AppData/linkace/.env`
 
 
         2. 为确保安全，安装后自定义数据库密码：修改 **.env** 文件和Docker环境变量中的 **DB_PASSWORD** 字段

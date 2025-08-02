@@ -89,10 +89,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: alextran1502
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/immich/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/immich/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/immich/screenshot-1.png
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/immich/thumbnail.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/immich/screenshot-1.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/immich/thumbnail.png
   description:
     en_us: immich is a self-hosted photo and video backup solution for iOS and Android. It offers AI-powered features like object detection, people recognition, and location-based search, giving you complete control over your privacy and data.
     zh_cn: immich 是一款适用于 iOS 和 Android 的自托管照片和视频备份解决方案。它提供了由 AI 支持的功能，例如对象检测、人物识别和基于位置的搜索，使您可以完全控制自己的隐私和数据。

@@ -51,13 +51,13 @@ x-casaos:
     en_us: Wiki.js is a powerful and extensible open source wiki software built on Node.js.
     zh_cn: Wiki.js 是一款基于 Node.js 构建的功能强大且可扩展的开源 Wiki 软件。
   developer: requarks.io
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wikijs/icon.svg
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wikijs/icon.svg
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wikijs/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wikijs/screenshot-1.png
   tagline:
     en_us: A modern, lightweight and powerful wiki app
     zh_cn: 现代化、轻量级、功能强大的 wiki 应用程序
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wikijs/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wikijs/thumbnail.png
   title:
     en_us: Wiki.js
   index: /

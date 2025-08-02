@@ -49,11 +49,11 @@ x-casaos:
     en_us: Emby Server brings all of your home videos, music, and photos together into one place. This enhanced version includes emby-erx for UI enhancements, dd-danmaku for adding danmaku support, and embyExternalUrl for using external players.
     zh_cn: Emby 服务器将您所有的家庭视频、音乐和照片集中到一处。此增强版本包括用于 UI 增强的 emby-erx、用于添加弹幕支持的 dd-danmaku 以及用于使用外部播放器的 embyExternalUrl。
   developer: amilys
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/emby-happy/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/emby-happy/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/emby-happy/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/emby-happy/screenshot-2.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/emby-happy/screenshot-3.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/emby-happy/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/emby-happy/screenshot-2.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/emby-happy/screenshot-3.png
   port_map: "8096"
   scheme: http
   tagline:

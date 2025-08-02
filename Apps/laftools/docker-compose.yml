@@ -32,13 +32,13 @@ x-casaos:
     en_us: Miaoda Toolbox is a privacy-first, self-deployable and completely open-source Chinese toolbox!
     zh_cn: 秒达工具箱是一款隐私优先，可自部署且完全开源的中文工具箱！
   developer: work7z
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/laftools/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/laftools/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/laftools/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/laftools/screenshot-1.png
   tagline:
     en_us: Free and secure one-click outbound toolbox
     zh_cn: 免费安全的一键式呼出工具箱
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/laftools/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/laftools/thumbnail.png
   title:
     en_us: LafTools
     zh_cn: 秒达工具箱

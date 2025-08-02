@@ -30,9 +30,9 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: heimdall.site
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/heimdall/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/heimdall/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/heimdall/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/heimdall/screenshot-1.png
   description:
     en_us: As the name suggests Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like.  Heimdall is an elegant solution to organise all your web applications.
     zh_cn: 顾名思义，Heimdall Application Dashboard 是一个用于显示所有网络应用程序的仪表盘。但它并不局限于应用程序，你可以添加任何你喜欢的链接。 Heimdall 是组织所有网络应用程序的优雅解决方案。

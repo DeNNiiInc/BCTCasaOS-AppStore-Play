@@ -55,7 +55,7 @@ x-casaos:
     en_us: MariaDB is a community-developed fork of MySQL and aims to be an enhanced, drop-in replacement for it.
     zh_cn: MariaDB 是 MySQL 的社区开发分支，旨在成为其增强版的兼容替代品。
   developer: MariaDB
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/MariaDB/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/MariaDB/icon.png
   tagline:
     en_us: Open-source relational database
     zh_cn: 开源关系型数据库

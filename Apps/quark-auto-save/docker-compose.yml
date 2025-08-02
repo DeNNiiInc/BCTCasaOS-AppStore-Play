@@ -45,10 +45,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: Cp0204
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/quark-auto-save/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/quark-auto-save/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/quark-auto-save/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/quark-auto-save/screenshot-2.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/quark-auto-save/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/quark-auto-save/screenshot-2.png
   description:
     en_us: For some continuously updated resources, it is very troublesome to dump them every now and then.  Execute this script regularly to automatically dump and organize file names, together with Alist, rclone, Emby, you can achieve the effect of automatic updating. 🥳
     zh_cn: 对于一些持续更新的资源，隔段时间去转存十分麻烦。  定期执行本脚本自动转存、文件名整理，配合 Alist, rclone, Emby 可达到自动追更的效果。🥳

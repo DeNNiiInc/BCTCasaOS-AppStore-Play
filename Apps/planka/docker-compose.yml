@@ -61,10 +61,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: plankanban
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/planka/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/planka/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/planka/screenshot-1.png
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/planka/thumbnail.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/planka/screenshot-1.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/planka/thumbnail.png
   description:
     en_us: Planka is an elegant open-source project tracking tool designed to help teams efficiently manage project progress and task allocation. It supports creating projects, boards, cards, labels, and tasks, as well as real-time updates, internal notifications, and multi-language interfaces.
     zh_cn: Planka 是一个优雅的开源项目跟踪工具，帮助团队高效管理项目进度和任务分配。它支持创建项目、看板、卡片、标签和任务，以及实时更新、内部通知和多语言界面。

@@ -41,7 +41,7 @@ x-casaos:
     en_us: TTNODE is a versatile platform that allows you to easily participate in various distributed computing projects. It supports a wide range of tasks and provides a user-friendly web interface for management.
     zh_cn: 甜糖星愿是一个多功能平台，可以轻松参与各种分布式计算项目。它支持广泛的任务，并提供了用户友好的Web界面进行管理。
   developer: ttnode
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ttnode/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ttnode/icon.png
   tagline:
     en_us: Versatile distributed computing platform.
     zh_cn: 多功能分布式计算平台。

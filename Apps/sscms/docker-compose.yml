@@ -29,15 +29,15 @@ x-casaos:
     en_us: SiteServer CMS is an open-source, free, enterprise-grade, and commercially available CMS content management system. It allows you to build a full-featured, high-performance, large-scale, and easy-to-maintain website platform with minimal cost, manpower, and time.
     zh_cn: SiteServer CMS是一款开源免费、企业级、可商用的CMS内容管理系统，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。
   developer: sscms.com
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/sscms/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/sscms/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/sscms/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/sscms/screenshot-2.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/sscms/screenshot-3.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/sscms/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/sscms/screenshot-2.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/sscms/screenshot-3.png
   tagline:
     en_us: Open-source, free, and enterprise-grade CMS
     zh_cn: 开源免费企业级CMS
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/sscms/thumbnail.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/sscms/thumbnail.png
   title:
     en_us: SiteServer CMS
     zh_cn: SiteServer CMS

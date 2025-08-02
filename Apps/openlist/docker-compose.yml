@@ -31,13 +31,13 @@ x-casaos:
     en_us: A file list program that supports multiple storages, powered by Gin and SolidJS, fork of AList.
     zh_cn: 一个支持多存储的文件列表程序，使用 Gin 和 SolidJS，基于 AList 项目 fork 开发
   developer: openlistteam
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/openlist/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/openlist/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/openlist/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/openlist/screenshot-1.png
   tagline:
     en_us: A new AList Fork to Anti Trust Crisis.
     zh_cn: 一个更可信、可持续的 AList 开源替代方案
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/openlist/thumbnail.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/openlist/thumbnail.png
   tips:
     before_install:
       en_us: |

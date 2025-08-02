@@ -28,14 +28,14 @@ x-casaos:
     en_us: AstrBot is an easy-to-use multi-platform chatbot and development framework. It features loose coupling, asynchronous processing, multi-platform deployment, an easy-to-use plugin system, and comprehensive integration with large language models (LLM).
     zh_cn: AstrBot 是一个易于上手的多平台聊天机器人及开发框架。它具有松耦合、异步处理、多消息平台部署、易用的插件系统以及完善的大语言模型（LLM）接入。
   developer: soulter
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/astrbot/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/astrbot/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/astrbot/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/astrbot/screenshot-2.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/astrbot/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/astrbot/screenshot-2.png
   tagline:
     en_us: Multi-platform Chatbot Framework with LLM Integration
     zh_cn: 多平台聊天机器人框架，集成大语言模型
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/astrbot/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/astrbot/thumbnail.png
   title:
     en_us: AstrBot
   scheme: http

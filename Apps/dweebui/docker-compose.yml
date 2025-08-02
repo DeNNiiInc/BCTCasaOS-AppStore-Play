@@ -36,15 +36,15 @@ x-casaos:
     en_us: DweebUI is a free and open-source WebUI for managing Docker containers. It provides a user-friendly dashboard for monitoring container performance, managing container lifecycles, and configuring container settings.
     zh_cn: DweebUI 是一款用于管理 Docker 容器的免费开源 WebUI 。 它提供了一个用户友好的仪表板，用于监控容器性能、管理容器生命周期和配置容器设置。
   developer: lllllllillllllillll
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dweebui/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dweebui/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dweebui/screenshot-1.png
-    # - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dweebui/screenshot-2.png
-    # - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dweebui/screenshot-3.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dweebui/screenshot-1.png
+    # - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dweebui/screenshot-2.png
+    # - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dweebui/screenshot-3.png
   tagline:
     en_us: Free and Open-Source WebUI For Managing Your Containers
     zh_cn: 又一个开源免费Docker管理器
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dweebui/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dweebui/thumbnail.png
   title:
     en_us: DweebUI
   port_map: "8000"

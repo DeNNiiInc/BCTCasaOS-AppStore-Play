@@ -33,19 +33,19 @@ x-casaos:
     zh_cn: AutoFilm 通过 Alist 提供的 Webdav 获取网盘视频播放链接并生成 Strm 文件，可被 Jellyfin/Emby 等影音媒体服务器识别并直接播放。
   developer: akimio
   hostname: ""
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/autofilm/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/autofilm/icon.png
   index: /
   is_uncontrolled: false
   main: autofilm
   port_map: ""
   scheme: http
   # screenshot_link:
-  #   - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/autofilm/screenshot-1.png
+  #   - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/autofilm/screenshot-1.png
   store_app_id: autofilm
   tagline:
     en_us: A project that provides Strm direct chain playback for Emby and Jellyfin servers
     zh_cn: 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/autofilm/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/autofilm/thumbnail.png
   tips:
     before_install:
       en_us: '[AutoFilm README](https://blog.akimio.top/posts/1031/)'

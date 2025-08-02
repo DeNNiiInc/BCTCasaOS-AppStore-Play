@@ -54,11 +54,11 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: ' gotson'
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/komga/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/komga/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/komga/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/komga/screenshot-2.png
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/komga/thumbnail.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/komga/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/komga/screenshot-2.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/komga/thumbnail.png
   description:
     en_us: Komga is a versatile platform that provides a responsive web UI for effortless browsing of libraries, series, and books across various devices. Users can efficiently organize their libraries using collections and read lists, while also having the ability to edit metadata for series and books.
     zh_cn: Komga 是一个多功能平台，提供了响应式的 Web UI，让用户能够轻松浏览图书馆、系列和图书，适用于桌面、平板和手机等多种设备。用户可以通过集合和阅读列表高效地组织图书馆，同时还可以编辑系列和图书的元数据。该平台提供了具有多种阅读模式的 Web 阅读器，确保用户流畅的阅读体验。

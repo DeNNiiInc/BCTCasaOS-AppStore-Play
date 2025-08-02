@@ -32,10 +32,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: wallabag.org
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wallabag/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wallabag/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wallabag/screenshot-1.png
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/wallabag/thumbnail.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wallabag/screenshot-1.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/wallabag/thumbnail.png
   description:
     en_us: wallabag is a web application allowing you to save web pages for later reading. Click, save and read it when you want. It extracts content so that you won't be distracted by pop-ups and cie.
     zh_cn: wallabag 是一款网络应用程序，允许您保存网页以供以后阅读。点击保存，随时阅读。它提取内容，以便您不会被弹出窗口等干扰。

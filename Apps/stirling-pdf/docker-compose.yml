@@ -37,13 +37,13 @@ x-casaos:
     en_us: Stirling PDF is a robust, locally hosted web-based PDF manipulation tool. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more.
     zh_cn: Stirling PDF 是一款功能强大的本地托管的基于 Web 的 PDF 操作工具。它使您能够对 PDF 文件执行各种操作，包括拆分、合并、转换、重新组织、添加图像、旋转、压缩等。
   developer: stirlingtools.com
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/stirling-pdf/icon.webp
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/stirling-pdf/icon.webp
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/stirling-pdf/screenshot-1.jpg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/stirling-pdf/screenshot-1.jpg
   tagline:
     en_us: A robust, locally hosted PDF Toolbox
     zh_cn: 功能强大的自托管的 PDF 工具箱
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/stirling-pdf/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/stirling-pdf/thumbnail.png
   title:
     en_us: Stirling-PDF
   index: /

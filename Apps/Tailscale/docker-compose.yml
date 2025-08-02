@@ -31,11 +31,11 @@ x-casaos:
     en_us: Tailscale lets you connect your devices and users together in your own secure virtual private network. Tailscale enables encrypted point-to-point connections using the open source WireGuard protocol.
     zh_cn: Tailscale 允许您将您的设备和用户连接到您自己的安全虚拟专用网络中。Tailscale 通过开源的 WireGuard 协议实现加密的点对点连接。
   developer: tailscale
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Tailscale/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Tailscale/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tailscale/screenshot-1.svg
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tailscale/screenshot-2.svg
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tailscale/screenshot-3.svg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/tailscale/screenshot-1.svg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/tailscale/screenshot-2.svg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/tailscale/screenshot-3.svg
   main: tailscaled
   tagline:
     en_us: Secure, private, and easy networking

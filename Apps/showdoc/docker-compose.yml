@@ -24,10 +24,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: star7th
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/showdoc/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/showdoc/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/showdoc/screenshot-1.png
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/showdoc/thumbnail.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/showdoc/screenshot-1.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/showdoc/thumbnail.png
   description:
     en_us: ShowDoc is a tool greatly applicable for an IT team to share documents online. It can promote communication efficiency among members of the team.
     zh_cn: ShowDoc是一个非常适合IT团队的在线API文档、技术文档工具。通过showdoc，你可以方便地使用markdown语法来书写出美观的API文档、数据字典文档、技术文档、在线excel文档等等。

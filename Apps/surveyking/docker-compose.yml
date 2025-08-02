@@ -29,15 +29,15 @@ x-casaos:
     en_us: SurveyKing is an open-source survey, exam, and voting system with features comparable to commercial systems.
     zh_cn: SurveyKing 是一款开源的调查问卷、考试和投票系统，其功能可与商业系统相媲美。
   developer: surveyking
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/surveyking/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/surveyking/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/surveyking/screenshot-1.jpg
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/surveyking/screenshot-2.jpg
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/surveyking/screenshot-3.jpg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/surveyking/screenshot-1.jpg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/surveyking/screenshot-2.jpg
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/surveyking/screenshot-3.jpg
   tagline:
     en_us: Open-source survey, exam, and voting system
     zh_cn: 开源的调查问卷、考试和投票系统
-  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/surveyking/thumbnail.png
+  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/surveyking/thumbnail.png
   tips:
     before_install:
       en_us: "Default Account Password: `admin` / `123456`"

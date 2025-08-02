@@ -48,10 +48,10 @@ x-casaos:
     sv_se: qBittorrent-projektets mål är att erbjuda en öppen källkodsalternativ till µTorrent.
     uk_ua: Проект qBittorrent має на меті надати альтернативу з відкритим вихідним кодом для µTorrent.
   developer: qBittorrent
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qbittorrent-nox/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/qbittorrent-nox/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qbittorrent-nox/screenshot-1.png
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qbittorrent-nox/screenshot-2.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/qbittorrent-nox/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/qbittorrent-nox/screenshot-2.png
   tagline:
     en_us: Free BitTorrent downloader
     zh_cn: 免费的 BitTorrent 下载器
@@ -66,7 +66,7 @@ x-casaos:
     pt_br: Downloader BitTorrent gratuito
     sv_se: Gratis BitTorrent-downladdare
     uk_ua: Безкоштовний завантажувач BitTorrent
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qbittorrent-nox/thumbnail.jpg
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/qbittorrent-nox/thumbnail.jpg
   tips:
     before_install:
       en_us: |

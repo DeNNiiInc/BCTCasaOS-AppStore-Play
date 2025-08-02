@@ -41,13 +41,13 @@ x-casaos:
 
       目前APP支持原生界面访问CasaOS/Zima主要功能，包括安装应用、管理已安装应用（包括：启动、停止、远程内网穿透访问所有已安装应用等）、查看系统状态，未来将支持DPanel等的原生界面APP访问和安装应用的远程访问
   developer: iotserv
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/gateway-go/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/gateway-go/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/gateway-go/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/gateway-go/screenshot-1.png
   tagline:
     en_us: A fast reverse proxy to help you expose a local server behind a NAT or firewall to your client.
     zh_cn: 简单好用的内网穿透工具
-  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/gateway-go/thumbnail.png
+  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/gateway-go/thumbnail.png
   title:
     en_us: Gateway-go
   index: /

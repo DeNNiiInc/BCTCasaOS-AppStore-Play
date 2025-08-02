@@ -32,9 +32,9 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: vDSM
-  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dsm/icon.png
+  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dsm/icon.png
   screenshot_link:
-    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/dsm/screenshot-1.png
+    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/dsm/screenshot-1.png
   description:
     en_us: Multiple disks, KVM acceleration, GPU passthrough, Upgrades supported
     zh_cn: 多磁盘，KVM 加速，GPU直通，支持升级
