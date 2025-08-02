@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Apps",
+    "\\Apps\\tp-link-omada-controller",
+    "\\Apps\\uisp",
+    "\\Apps\\unifi-network-application",
+    "\\Apps\\unifi-network-application-mongo-4"
   ],
+  "SelectedNode": "\\Apps\\uisp\\docker-compose.yml",
   "PreviewInSolutionExplorer": false
 }
