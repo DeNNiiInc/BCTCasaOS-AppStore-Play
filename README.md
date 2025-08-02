@@ -18,20 +18,21 @@ bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)
 ```
 </details>
 
-## Features / 特色
+</details>
 
- - Rich third-party applications / 丰富的第三方应用 <sup>130+🤩</sup>
- - Use of the `:latest` tag / 使用 `:latest` 标签 <sup>[Why?](https://github.com/Cp0204/CasaOS-AppStore-Play/issues/2#issuecomment-1647335915)</sup>
- - Unsuitable for official AppStore / 不适宜官方上架的
- - Niche Featured Apps / 国内小众特色应用
- - Support for Multi-arch & Fix armv7 / 多架构与armv7支持 [👇🏻](#arch-specific-source--分架构专属源)
+## Features
+
+ - Rich third-party applications <sup>130+🤩</sup>
+ - Use of the `:latest` tag <sup>[Why?](https://github.com/Cp0204/CasaOS-AppStore-Play/issues/2#issuecomment-1647335915)</sup>
+ - Unsuitable for official AppStore
+ - Niche Featured Apps
+ - Support for Multi-arch & Fix armv7 [👇🏻](#arch-specific-source--architecture-specific-source)
 
 > [!NOTE]
 > This store app uses the `:latest` tag, the `┆` check for updates function in the upper right corner of the app will be disabled, but **you can manually edit the app settings once (without changing anything) to get the latest image.** The good thing is that you can always get the latest version of the app even if the store source is unmaintained.
->
-> 本商店应用使用 `:latest` 标签，应用右上角 `┆` 检查更新功能会失效，但**你可以手动编辑一次应用设置（无需修改任何参数）获取最新镜像。** 好处是即使商店源无人维护，你总能获得应用的最新版本。
 
-## Source link / 源地址
+## Source link
+
 
 ```
 https://play.cuse.eu.org/Cp0204-AppStore-Play.zip
