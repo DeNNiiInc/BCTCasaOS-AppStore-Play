@@ -5,8 +5,6 @@
 🔽 [App List / 应用列表](#app-list--应用列表)
 
 
-[This is an external link to GOOGLE](https://www.google.com/)
-
 <details>
 <summary>Domestic network environment optimization</summary>
 
