@@ -5,14 +5,14 @@ services:
     deploy:
       resources:
         reservations:
-          memory: 128M
+          memory: 256M
     environment:
       - DEFAULT_WORKSPACE=/config/workspace
       - PASSWORD=casaos
       - PGID=1000
       - PUID=1000
       - SUDO_PASSWORD=password
-      - TZ=Etc/UTC
+      - TZ=Australia/Melbourne
     image: linuxserver/code-server:latest
     ports:
       - target: 8443
