@@ -22,8 +22,8 @@ bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)
 
 ## Features
 
- - Rich third-party applications <sup>130+🤩</sup>
- - Use of the `:latest` tag <sup>[Why?](https://github.com/Cp0204/CasaOS-AppStore-Play/issues/2#issuecomment-1647335915)</sup>
+ - Rich third-party applications
+ - Use of the `:latest` tag 
  - Unsuitable for official AppStore
  - Niche Featured Apps
  - Support for Multi-arch & Fix armv7 [👇🏻](#arch-specific-source--)
