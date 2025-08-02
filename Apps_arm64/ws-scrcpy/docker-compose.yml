@@ -30,14 +30,14 @@ x-casaos:
     en_us: ws-scrcpy is a WebSocket-based implementation of the scrcpy Android screen mirroring tool. It allows you to control your Android device from your web browser.
     zh_cn: ws-scrcpy 是 scrcpy Android 屏幕镜像工具的基于 WebSocket 的实现。它允许您从 Web 浏览器控制您的 Android 设备。
   developer: scavin
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/ws-scrcpy/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ws-scrcpy/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/ws-scrcpy/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/ws-scrcpy/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ws-scrcpy/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ws-scrcpy/screenshot-2.png
   tagline:
     en_us: Control your Android device from your web browser
     zh_cn: 从 Web 浏览器控制您的 Android 设备
-  thumbnail: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/ws-scrcpy/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ws-scrcpy/thumbnail.png
   tips:
     before_install:
       en_us: Make sure your Android device is connected to the same network as the server running ws-scrcpy.

@@ -30,14 +30,14 @@ x-casaos:
     en_us: Screego is a high-performance, low-latency screen sharing solution designed for developers. Built using WebRTC, it provides secure and efficient screen sharing capabilities with excellent video quality.
     zh_cn: Screego 是一款面向开发人员的高性能、低延迟屏幕共享解决方案。它使用 WebRTC 构建，提供安全高效的屏幕共享功能，并具有出色的视频质量。
   developer: jmattheis
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/screego/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/screego/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/screego/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/screego/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/screego/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/screego/screenshot-1.png
   tagline:
     en_us: High-performance screen sharing for developers
     zh_cn: 面向开发人员的高性能屏幕共享
-  # thumbnail: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/screego/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/screego/thumbnail.png
   title:
     en_us: Screego
   index: /

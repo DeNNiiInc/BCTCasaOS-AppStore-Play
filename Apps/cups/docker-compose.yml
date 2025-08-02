@@ -37,9 +37,9 @@ x-casaos:
     en_us: CUPS (Common UNIX Printing System) is a modular printing system for Unix-like operating systems that allows a computer to act as a print server. It can accept print jobs from client computers, process them, and send them to the appropriate printer.
     zh_cn: CUPS（通用UNIX打印系统）是一个模块化的打印系统，适用于类Unix操作系统，允许计算机充当打印服务器。它可以接受来自客户端计算机的打印作业，处理它们并将其发送到适当的打印机。
   developer: anujdatar
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/cups/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cups/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/cups/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cups/screenshot-1.png
   tagline:
     en_us: Turn your printer into a network printer
     zh_cn: 将您的打印机变成网络打印机

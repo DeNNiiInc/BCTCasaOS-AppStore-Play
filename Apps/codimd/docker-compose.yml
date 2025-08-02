@@ -47,9 +47,9 @@ x-casaos:
   category: Documents
   author: Cp0204
   developer: hackmd.io
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/codimd/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/codimd/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/codimd/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/codimd/screenshot-1.png
   description:
     en_us: CodiMD lets you collaborate in real-time with markdown. Built on HackMD source code, CodiMD lets you host and control your team's content with speed and ease.
     zh_cn: CodiMD 可让您使用 Markdown 进行实时协作。CodiMD 基于 HackMD 源代码构建，可让您快速、轻松地托管和控制团队内容。

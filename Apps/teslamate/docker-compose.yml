@@ -99,15 +99,15 @@ x-casaos:
     en_us: A self-hosted data logger for your Tesla 🚘. A powerful, self-hosted data logger for your Tesla. Written in Elixir. Data is stored in a Postgres database. Visualization and data analysis with Grafana. Vehicle data is published to a local MQTT Broker.
     zh_cn: 特斯拉汽车的自托管数据记录器 🚘。一个功能强大的特斯拉自托管数据记录器。使用 Elixir 编写。数据存储在 Postgres 数据库中。使用 Grafana 进行可视化和数据分析。车辆数据发布到本地 MQTT 代理。
   developer: teslamate
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/teslamate/icon.svg
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/teslamate/icon.svg
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/teslamate/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/teslamate/screenshot-2.png
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/teslamate/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/teslamate/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/teslamate/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/teslamate/screenshot-3.png
   tagline:
     en_us: A self-hosted data logger for your Tesla
     zh_cn: 特斯拉汽车的自托管数据记录器
-  thumbnail: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/teslamate/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/teslamate/thumbnail.png
   tips:
     before_install:
       en_us: |

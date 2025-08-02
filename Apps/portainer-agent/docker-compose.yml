@@ -25,7 +25,7 @@ x-casaos:
   category: Utilities
   author: Cp0204
   developer: Portainer
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/portainer-agent/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/portainer-agent/icon.png
   description:
     en_us: Portainer Agent is a lightweight agent used to manage Docker environments remotely. It allows Portainer to manage the resources of a Docker environment even if Portainer is not installed directly on the Docker host.
     zh_cn: Portainer Agent 是用于远程管理Docker环境的轻量级代理。它允许Portainer管理Docker环境的资源，即使Portainer没有直接安装在Docker主机上。

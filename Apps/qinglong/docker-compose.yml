@@ -41,14 +41,14 @@ x-casaos:
     en_us: QingLong is a platform for managing and executing scheduled tasks for Python3, JavaScript, Shell, and Typescript scripts.
     zh_cn: 青龙是一个用于管理和执行Python3、JavaScript、Shell和Typescript脚本的定时任务平台。
   developer: whyour
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/qinglong/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qinglong/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/qinglong/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/qinglong/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qinglong/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qinglong/screenshot-2.png
   tagline:
     en_us: Task management platform for Python, JavaScript, Shell, and Typescript scripts.
     zh_cn: 用于Python、JavaScript、Shell和Typescript脚本的任务管理平台。
-  thumbnail: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/qinglong/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/qinglong/thumbnail.png
   tips: {}
   title:
     en_us: QingLong

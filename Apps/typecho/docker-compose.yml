@@ -40,9 +40,9 @@ x-casaos:
   category: Blog
   author: Cp0204
   developer: Typecho
-  icon: https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/typecho/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/typecho/icon.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/typecho/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/typecho/screenshot-1.png
   description:
     en_us: Typecho is a PHP-based blog software and is designed to be the most powerful blog engine in the world. Typecho is released under the GNU General Public License 2.0.
     zh_cn: Typecho 是一个基于 PHP 的博客软件，旨在成为世界上最强大的博客引擎。Typeecho 是在 GNU通用公共许可协议2.0下发布的。
