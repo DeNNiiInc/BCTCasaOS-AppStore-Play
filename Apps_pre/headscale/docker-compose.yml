@@ -76,7 +76,7 @@ networks:
     name: headscale
 
 x-casaos:
-  author: Cp0204
+  author: BCT
   category: self
   description:
     en_us: An open source, self-hosted implementation of the Tailscale control server.

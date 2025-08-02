@@ -50,7 +50,7 @@ x-casaos:
     - arm64
   main: foxel
   store_app_id: foxel
-  author: Cp0204
+  author: BCT
   category: Media
   description:
     en_us: Foxel is a modern intelligent image retrieval and management system based on .NET 9, integrating advanced AI visual models and vector embedding technology to provide efficient image search and management functions.

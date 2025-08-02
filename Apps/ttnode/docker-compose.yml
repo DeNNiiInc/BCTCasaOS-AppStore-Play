@@ -35,7 +35,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: TTNODE is a versatile platform that allows you to easily participate in various distributed computing projects. It supports a wide range of tasks and provides a user-friendly web interface for management.

@@ -22,7 +22,7 @@ x-casaos:
   architectures:
     - amd64
     - arm64
-  author: Cp0204
+  author: BCT
   category: Network
   description:
     en_us: A Xray backend framework that can easily support many panels.

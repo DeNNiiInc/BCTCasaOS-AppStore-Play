@@ -24,7 +24,7 @@ x-casaos:
     - amd64
     - arm64
     - arm
-  author: Cp0204
+  author: BCT
   category: VPN
   description:
     en_us: MTProto Proxy is a Telegram proxy server with support for all aspects of the protocol and multi-core processors. It provides a high level of privacy and security for your Telegram communication.

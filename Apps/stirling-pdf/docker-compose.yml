@@ -31,7 +31,7 @@ x-casaos:
     - amd64
   main: stirling-pdf
   store_app_id: stirling-pdf
-  author: Cp0204
+  author: BCT
   category: Documents
   description:
     en_us: Stirling PDF is a robust, locally hosted web-based PDF manipulation tool. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more.

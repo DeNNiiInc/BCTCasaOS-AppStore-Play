@@ -31,7 +31,7 @@ x-casaos:
     - arm64
     - amd64
   main: qbittorrent-nox
-  author: Cp0204
+  author: BCT
   category: Downloader
   description:
     en_us: The qBittorrent project aims to provide an open-source software alternative to µTorrent.

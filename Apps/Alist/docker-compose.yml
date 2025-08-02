@@ -23,7 +23,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: Cp0204
+  author: BCT
   category: Cloud
   description:
     en_us: A file list program that supports multiple storage, powered by Gin and Solidjs.

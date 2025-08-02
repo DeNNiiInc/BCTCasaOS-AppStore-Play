@@ -46,7 +46,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Portainer is a lightweight management UI which allows you to easily manage your Docker environments. It is designed to be easy to use and offers full control over your Docker hosts and containers.

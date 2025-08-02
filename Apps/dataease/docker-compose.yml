@@ -60,7 +60,7 @@ x-casaos:
     - arm64
   main: dataease
   store_app_id: dataease
-  author: Cp0204
+  author: BCT
   category: Analytics
   description:
     en_us: DataEase is an open-source free data visualization analysis tool, Aiming to help users with various levels of technical skills to carry out data analysis quickly, and explore the value of data easily.

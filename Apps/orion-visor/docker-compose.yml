@@ -94,7 +94,7 @@ x-casaos:
   architectures:
     - amd64
   main: orion-visor
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Orion Visor is a high-value, modern intelligent operation and maintenance & lightweight bastion platform. Orion-visor provides a one-stop server operation and maintenance solution.

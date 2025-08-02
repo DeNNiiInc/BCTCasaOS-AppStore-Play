@@ -17,7 +17,7 @@ x-casaos:
     - arm64
   main: fake-ollama
   store_app_id: fake-ollama
-  author: Cp0204
+  author: BCT
   category: Developer
   description:
     en_us: A fake Ollama API server implementation, fully compatible with the Ollama API, supporting OpenAI compatible interfaces and streaming output. Simulates multiple DeepSeek-R1 models. Lightweight and easy to deploy.

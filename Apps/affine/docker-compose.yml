@@ -82,7 +82,7 @@ x-casaos:
     - arm64
     - amd64
   main: affine
-  author: Cp0204
+  author: BCT
   category: Documents
   description:
     en_us: A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.

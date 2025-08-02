@@ -22,7 +22,7 @@ x-casaos:
     - arm
     - arm64
   main: nginxwebui
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: nginxWebUI is a graphical management of nginx configuration tool , you can use the web page to quickly configure the various functions of nginx , including http protocol forwarding , tcp protocol forwarding , reverse proxy , load balancing , static html server , ssl certificate automatically apply for , renew , configure and so on , configure a good can be built to generate the nginx.conf file , and can control nginx using this file startup and reload , to complete the nginx graphical control of the closed loop . At the same time you can control nginx use this file to start and reload, complete the graphical control of nginx closed loop.

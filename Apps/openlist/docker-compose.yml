@@ -25,7 +25,7 @@ x-casaos:
     - arm
   main: openlist
   store_app_id: openlist
-  author: Cp0204
+  author: BCT
   category: File Sync
   description:
     en_us: A file list program that supports multiple storages, powered by Gin and SolidJS, fork of AList.

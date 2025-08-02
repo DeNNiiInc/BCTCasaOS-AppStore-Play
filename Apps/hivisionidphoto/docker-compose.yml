@@ -18,7 +18,7 @@ x-casaos:
     - amd64
   main: hivisionidphoto
   store_app_id: hivisionidphoto
-  author: Cp0204
+  author: BCT
   category: Media
   description:
     en_us: HivisionIDPhoto is an intelligent photo generation algorithm for ID photos, capable of recognizing various user scenarios, cutting out images, and generating standard ID photos.

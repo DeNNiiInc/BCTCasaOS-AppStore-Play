@@ -54,7 +54,7 @@ x-casaos:
     - amd64
   main: pve
   store_app_id: pve
-  author: Cp0204
+  author: BCT
   category: "Utilities"
   description:
     en_us: Proxmox VE is a complete open-source platform for enterprise virtualization. It integrates the KVM hypervisor and LXC containers, software-defined storage, and networking functionality on a single platform.

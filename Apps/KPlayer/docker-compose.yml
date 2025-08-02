@@ -30,7 +30,7 @@ x-casaos:
   architectures:
     - amd64
     - arm64
-  author: Cp0204
+  author: BCT
   category: Network
   description:
     en_us: KPlayer can help you quickly perform looped live streaming of video resources on the server, simply customize the configuration file to enable live streaming.

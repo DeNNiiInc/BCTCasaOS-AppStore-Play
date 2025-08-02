@@ -25,7 +25,7 @@ x-casaos:
     - amd64
   main: flare
   store_app_id: flare
-  author: Cp0204
+  author: BCT
   category: WEB
   description:
     en_us: A lightweight, fast, and beautiful personal start page for your home lab, self-hosted services, and more.

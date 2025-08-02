@@ -49,7 +49,7 @@ services:
 x-casaos:
   architectures:
     - amd64
-  author: Cp0204
+  author: BCT
   developer: LanCache.net
   category: Network
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lancache/icon.png

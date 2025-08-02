@@ -24,7 +24,7 @@ x-casaos:
     - amd64
   main: ws-scrcpy
   store_app_id: ws-scrcpy
-  author: Cp0204
+  author: BCT
   category: Developer
   description:
     en_us: ws-scrcpy is a WebSocket-based implementation of the scrcpy Android screen mirroring tool. It allows you to control your Android device from your web browser.

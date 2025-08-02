@@ -26,7 +26,7 @@ x-casaos:
     - arm
     - arm64
   main: ddns-go
-  author: Cp0204
+  author: BCT
   category: Network
   description:
     en_us: A simple and easy-to-use DDNS (Dynamic Domain Name System) that automatically updates your domain name resolution to your public IP address. It supports various cloud services such as Alibaba Cloud, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, and Google Domain.

@@ -34,7 +34,7 @@ x-casaos:
     - arm64
     - arm
   main: gopeed
-  author: Cp0204
+  author: BCT
   developer: GopeedLab
   category: Downloader
   description:

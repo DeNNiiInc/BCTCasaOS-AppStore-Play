@@ -23,7 +23,7 @@ x-casaos:
   main: portainer-agent
   store_app_id: portainer-agent
   category: Utilities
-  author: Cp0204
+  author: BCT
   developer: Portainer
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/portainer-agent/icon.png
   description:

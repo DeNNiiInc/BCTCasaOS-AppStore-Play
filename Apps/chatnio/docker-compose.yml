@@ -72,7 +72,7 @@ x-casaos:
     - amd64
   main: chatnio
   store_app_id: chatnio
-  author: Cp0204
+  author: BCT
   category: Chat
   description:
     en_us: "Chat Nio is an all-in-one AI service management platform that offers comprehensive solutions for individual users, developers, and enterprises. We are committed to providing users with efficient, flexible, and powerful AI services."

@@ -20,7 +20,7 @@ x-casaos:
     - amd64
   main: metube
   store_app_id: metube
-  author: Cp0204
+  author: BCT
   category: Downloader
   description:
     en_us: MeTube is a self-hosted YouTube downloader with a web UI for youtube-dl / yt-dlp, enabling easy downloading of your favorite videos.

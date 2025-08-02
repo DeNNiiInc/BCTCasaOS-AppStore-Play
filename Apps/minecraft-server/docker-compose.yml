@@ -33,7 +33,7 @@ x-casaos:
     - arm64
   main: minecraft-server
   store_app_id: minecraft-server
-  author: Cp0204
+  author: BCT
   category: Games
   description:
     en_us: A Minecraft Server that will automatically download the latest stable version at startup. You can customize the server using environment variables.

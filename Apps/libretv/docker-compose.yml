@@ -21,7 +21,7 @@ x-casaos:
     - amd64
   main: libretv
   store_app_id: libretv
-  author: Cp0204
+  author: BCT
   category: Media
   description:
     en_us: LibreTV is a lightweight, free online video search and viewing platform that provides content search and playback services from multiple video sources. No registration required, ready to use, supports access from multiple devices.

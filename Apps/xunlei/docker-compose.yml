@@ -52,7 +52,7 @@ x-casaos:
     - amd64
     - arm64
   main: xunlei
-  author: Cp0204
+  author: BCT
   category: Downloader
   description:
     en_us: Thunder, a veteran download software in China, supports HTTP/FTP/BT and other protocols.

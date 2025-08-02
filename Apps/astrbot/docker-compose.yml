@@ -22,7 +22,7 @@ x-casaos:
     - amd64
   main: astrbot
   store_app_id: astrbot
-  author: Cp0204
+  author: BCT
   category: Chat
   description:
     en_us: AstrBot is an easy-to-use multi-platform chatbot and development framework. It features loose coupling, asynchronous processing, multi-platform deployment, an easy-to-use plugin system, and comprehensive integration with large language models (LLM).

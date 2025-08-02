@@ -22,7 +22,7 @@ x-casaos:
     - amd64
     - arm64
   main: maxkb
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: MaxKB is a knowledge base question answering system based on LLM. MaxKB = Max Knowledge Base, aims to be the most powerful brain of the enterprise.

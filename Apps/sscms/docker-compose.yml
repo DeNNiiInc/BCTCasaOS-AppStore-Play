@@ -23,7 +23,7 @@ x-casaos:
     - arm64
   main: sscms
   store_app_id: sscms
-  author: Cp0204
+  author: BCT
   category: WEB
   description:
     en_us: SiteServer CMS is an open-source, free, enterprise-grade, and commercially available CMS content management system. It allows you to build a full-featured, high-performance, large-scale, and easy-to-maintain website platform with minimal cost, manpower, and time.

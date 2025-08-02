@@ -18,7 +18,7 @@ x-casaos:
     - amd64
   main: pdfmathtranslate
   store_app_id: pdfmathtranslate
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: PDF scientific paper translation and bilingual comparison. Preserve formulas, charts, table of contents, and annotations (preview). Support multiple languages, and diverse translation services. Provides commandline tool, interactive user interface, and Docker.

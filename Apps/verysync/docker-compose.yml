@@ -57,7 +57,7 @@ x-casaos:
     - arm64
   main: verysync
   store_app_id: verysync
-  author: Cp0204
+  author: BCT
   developer: verysync.com
   category: File Sync
   description:

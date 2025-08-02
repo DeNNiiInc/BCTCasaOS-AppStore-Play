@@ -49,7 +49,7 @@ x-casaos:
     - arm
     - arm64
   main: mariadb
-  author: Cp0204
+  author: BCT
   category: Database
   description:
     en_us: MariaDB is a community-developed fork of MySQL and aims to be an enhanced, drop-in replacement for it.

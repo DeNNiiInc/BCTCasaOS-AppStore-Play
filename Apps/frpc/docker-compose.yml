@@ -24,7 +24,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: Cp0204
+  author: BCT
   category: Network
   description:
     en_us: A fast reverse proxy client that helps you expose a local server to the internet. It provides client authentication and supports multiple protocols.

@@ -28,7 +28,7 @@ x-casaos:
     - amd64
   main: auto-symlink
   store_app_id: auto-symlink
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Auto_Symlink is an automation tool designed to manage cloud drives mounted locally through CloudDrive2/Alist. It creates symbolic links, making it easier for media servers like Emby/Jellyfin/Plex to scrape and read content, while reducing frequent access to the cloud drive.

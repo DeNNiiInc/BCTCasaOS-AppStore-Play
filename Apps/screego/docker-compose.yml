@@ -24,7 +24,7 @@ x-casaos:
     - arm
   main: screego
   store_app_id: screego
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Screego is a high-performance, low-latency screen sharing solution designed for developers. Built using WebRTC, it provides secure and efficient screen sharing capabilities with excellent video quality.

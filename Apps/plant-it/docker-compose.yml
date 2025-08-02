@@ -88,7 +88,7 @@ x-casaos:
     - amd64
   main: plant-it
   store_app_id: plant-it
-  author: Cp0204
+  author: BCT
   category: Home Automation
   description:
     en_us: Plant-it is a self-hosted gardening companion app. Useful for keeping track of plant care, receiving notifications about when to water plants, uploading plant images, and more.

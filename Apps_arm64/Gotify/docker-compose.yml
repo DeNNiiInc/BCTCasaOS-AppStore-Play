@@ -20,7 +20,7 @@ services:
 x-casaos:
   architectures:
     - arm64
-  author: Cp0204
+  author: BCT
   category: Dapps
   description:
     en_us: A self-hosted push notification service written in Go. It simplifies the sending and receiving of push notifications over multiple platforms.

@@ -26,7 +26,7 @@ x-casaos:
     - arm64
   main: one-api
   store_app_id: one-api
-  author: Cp0204
+  author: BCT
   category: Developer
   description:
     en_us: OpenAI API management & redistribution system, using a single API for all LLMs, and features an English UI.

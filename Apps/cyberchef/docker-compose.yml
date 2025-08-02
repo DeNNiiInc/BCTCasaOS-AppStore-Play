@@ -19,7 +19,7 @@ x-casaos:
     - amd64
   main: cyberchef
   store_app_id: cyberchef
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more.

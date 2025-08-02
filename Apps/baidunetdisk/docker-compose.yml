@@ -25,7 +25,7 @@ x-casaos:
     - arm64
   main: baidunetdisk
   store_app_id: baidunetdisk
-  author: Cp0204
+  author: BCT
   developer: Baidu Inc.
   category: Downloader
   description:

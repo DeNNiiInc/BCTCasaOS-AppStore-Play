@@ -509,7 +509,7 @@ x-casaos:
     - amd64
   main: api
   store_app_id: dify
-  author: Cp0204
+  author: BCT
   category: Developer
   description:
     en_us: Dify is an open-source LLM app development platform. Orchestrate LLM apps from agents to complex AI workflows, with a built-in RAG engine. More production-ready than LangChain.  Build AI applications faster with support for mainstream LLMs, an intuitive prompt orchestration interface, high-quality RAG engines, and a flexible AI agent framework.

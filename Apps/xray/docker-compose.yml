@@ -23,7 +23,7 @@ x-casaos:
     - amd64
   main: xray
   store_app_id: xray
-  author: Cp0204
+  author: BCT
   category: VPN
   description:
     en_us: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.

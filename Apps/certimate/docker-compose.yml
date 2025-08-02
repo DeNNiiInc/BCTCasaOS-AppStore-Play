@@ -24,7 +24,7 @@ x-casaos:
     - amd64
   main: certimate
   store_app_id: certimate
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Certimate is a self-hosted SSL certificate management tool that makes it easy to obtain, renew and deploy SSL certificates from Let's Encrypt, ZeroSSL and more, for free.

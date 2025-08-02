@@ -39,7 +39,7 @@ x-casaos:
     - arm
     - arm64
   main: v2raya
-  author: Cp0204
+  author: BCT
   category: VPN
   description:
     en_us: V2RayA is a web-based V2Ray front-end with enhanced functionality. It provides an intuitive and user-friendly interface to configure and manage your V2Ray server. With V2RayA, you can easily set up and customize your own proxy server with various protocols and encryption methods.

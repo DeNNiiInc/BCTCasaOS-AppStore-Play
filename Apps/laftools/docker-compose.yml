@@ -26,7 +26,7 @@ x-casaos:
     - amd64
   main: laftools
   store_app_id: laftools
-  author: Cp0204
+  author: BCT
   category: Utilities
   description:
     en_us: Miaoda Toolbox is a privacy-first, self-deployable and completely open-source Chinese toolbox!
