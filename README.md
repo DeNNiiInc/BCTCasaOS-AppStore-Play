@@ -7,7 +7,7 @@ This is a third-party app store for CasaOS, providing a variety of applications 
 
 
 
-🔽 [App List](#app-list--)
+🔽 [App List](#app-list)
 
 
 <details>
