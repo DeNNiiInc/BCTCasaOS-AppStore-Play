@@ -15,7 +15,7 @@ echo '
  | |___| (_| \__ \ (_| | |__| |____) | | |\  |  __/\ V  V /| |_) | |  __/
   \_____\__,_|___/\__,_|\____/|_____/  |_| \_|\___| \_/\_/ |____/|_|\___|
 
- By: 什么都不懂的臭弟弟, 猪哥哥, Cp0204 @ CasaOS Club
+ By: 什么都不懂的臭弟弟, 猪哥哥, BCT @ CasaOS Club
 
  欢迎使用 CasaOS 小白辅助脚本
  bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)

@@ -33,7 +33,7 @@ bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)
 ## Source link
 
 ```
-https://play.cuse.eu.org/Cp0204-AppStore-Play.zip
+https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/archive/refs/heads/main.zip
 ```
 
 This is just a generic version, please add the following sources corresponding to the architecture for best support if possible.
@@ -66,9 +66,9 @@ This is just a generic version, please add the following sources corresponding t
 
 The future direction of this repository is to transform into a general compose repository.
 
-- [x] Remove all $AppID variables
-- [ ] One-click script to select installed apps
-- [ ] Adapt fields for dockge
+- [DONE] Remove all $AppID variables
+- [Not Yet ] One-click script to select installed apps
+- [No Plans Yet ] Adapt fields for dockge
 
 ## Donate
 
