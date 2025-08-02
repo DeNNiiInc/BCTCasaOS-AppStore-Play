@@ -37,9 +37,9 @@ services:
       PAPERLESS_OAUTH_PROVIDER: "google,microsoft"
 
       # Google OAuth2
-      #PAPERLESS_OAUTH_GOOGLE_CLIENT_ID: "your-google-client-id"
-      #PAPERLESS_OAUTH_GOOGLE_CLIENT_SECRET: "your-google-client-secret"
-      #PAPERLESS_OAUTH_GOOGLE_REDIRECT_URI: "http://[YOUR_IP]:8000/accounts/google/login/callback/"
+      PAPERLESS_OAUTH_GOOGLE_CLIENT_ID: "your-google-client-id"
+      PAPERLESS_OAUTH_GOOGLE_CLIENT_SECRET: "your-google-client-secret"
+      PAPERLESS_OAUTH_GOOGLE_REDIRECT_URI: "http://[YOUR_IP]:8000/accounts/google/login/callback/"
 
       # Microsoft 365 OAuth2
       PAPERLESS_OAUTH_MICROSOFT_CLIENT_ID: "your-microsoft-client-id"
