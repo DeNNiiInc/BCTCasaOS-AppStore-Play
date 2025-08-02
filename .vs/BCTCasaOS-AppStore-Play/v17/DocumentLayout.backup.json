@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\cloudflared-web\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apps\\cloudflared-web\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\paperless-ngx\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apps\\paperless-ngx\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,13 +56,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\cloudflared-web\\docker-compose.yml",
-              "RelativeDocumentMoniker": "Apps\\cloudflared-web\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\cloudflared-web\\docker-compose.yml",
-              "RelativeToolTip": "Apps\\cloudflared-web\\docker-compose.yml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\paperless-ngx\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Apps\\paperless-ngx\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\DM\\source\\repos\\DeNNiiInc\\BCTCasaOS-AppStore-Play\\Apps\\paperless-ngx\\docker-compose.yml",
+              "RelativeToolTip": "Apps\\paperless-ngx\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-02T11:47:37.199Z",
+              "WhenOpened": "2025-08-02T11:58:16.501Z",
               "EditorCaption": ""
             }
           ]
