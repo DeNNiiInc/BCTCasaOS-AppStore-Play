@@ -2,7 +2,6 @@
 
 🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
 
-🤪 The third-party CasaOS app store, also suitable for general *Docker Compose* deployment.
 
 🔽 [App List](#app-list--)
 
