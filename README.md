@@ -2,23 +2,15 @@
 
 🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
 
+🤪 第三方 CasaOS 应用商店，也适用于通用 *Docker Compose* 部署。
+
 🔽 [App List / 应用列表](#app-list--应用列表)
 
 
-> After adding this software source to CasaOS, install the `dkTurbo` app and start it to apply the Docker image source with one click, solving the issue of application installation getting stuck (image pull failure) in China since 2024-06-06.
-
-````````markdown
-# CasaOS-AppStore-Play
-
-🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
-
-🔽 [App List](#app-list)
-
-## Introduction
 <details>
-<summary>Domestic network environment optimization</summary>
+<summary>国内网络环境优化</summary>
 
-> After adding this software source to CasaOS, install the `dkTurbo` app and start it to apply the Docker image source with one click, solving the issue of application installation getting stuck (image pull failure) in China since 2024-06-06.
+> CasaOS 添加本软件源后，安装 `dkTurbo` 应用，启动即可一键应用 Docker 镜像源，解决国内 20240606 起安装应用卡住（拉取镜像失败）的问题。
 
 ```bash
 # CasaOS 小白辅助脚本
