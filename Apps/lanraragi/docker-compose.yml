@@ -30,11 +30,11 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: Difegue
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/lanraragi/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lanraragi/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/lanraragi/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/lanraragi/screenshot-2.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/lanraragi/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lanraragi/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lanraragi/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/lanraragi/screenshot-3.png
   description:
     en_us: 'LANraragi is a versatile comic archive management tool that supports various formats such as zip, rar, targz, lzma, 7z, xz, cbz, cbr, and pdf, with basic support for epub. Users can seamlessly read their comic archives directly from a web browser, as the server efficiently accesses compressed files using temporary folders.'
     zh_cn: LANraragi是一款多功能的漫画存档管理工具，支持多种格式，包括zip、rar、targz、lzma、7z、xz、cbz、cbr和pdf，同时对epub提供基本支持。用户可以直接从Web浏览器中无缝阅读其漫画存档，因为服务器通过临时文件夹有效地访问压缩文件。

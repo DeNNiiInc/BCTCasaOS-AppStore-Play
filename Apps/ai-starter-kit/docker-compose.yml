@@ -138,13 +138,13 @@ x-casaos:
     en_us: "Self-hosted AI Starter Kit is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment. It combines the self-hosted n8n platform with a curated list of compatible AI products and components to quickly get started with building self-hosted AI workflows."
     zh_cn: "Self-hosted AI Starter Kit 是一个开源的 Docker Compose 模板，旨在快速初始化一个全面的本地 AI 和低代码开发环境。它将自托管的 n8n 平台与精选的兼容 AI 产品和组件列表相结合，以快速开始构建自托管的 AI 工作流程。"
   developer: n8n-io
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ai-starter-kit/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ai-starter-kit/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ai-starter-kit/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ai-starter-kit/screenshot-1.png
   tagline:
     en_us: Self-hosted AI starter kit
     zh_cn: 自托管 AI 启动套件
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ai-starter-kit/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ai-starter-kit/thumbnail.png
   tips:
     before_install:
       en_us: "If this is the first time you’re running the workflow, you may need to wait until Ollama finishes downloading Llama3.2. You can inspect the docker console logs to check on the progress."

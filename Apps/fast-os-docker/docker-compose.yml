@@ -41,11 +41,11 @@ x-casaos:
     en_us: FAST OS DOCKER is a graphical management tool for Docker, providing users with Docker overview, local container management, remote image pulling, server disk mapping, server network management, and more. It can meet the container management needs of small to medium-sized organizations.
     zh_cn: FAST OS DOCKER是Docker的图形化管理工具，为用户提供了Docker总览、本地容器管理、远程镜像拉取、服务器磁盘映射、服务器网络管理等功能，基本能满足中小型单位对容器管理的全部需求。
   developer: wangbinxingkong
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/fast-os-docker/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/fast-os-docker/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/fast-os-docker/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/fast-os-docker/screenshot-2.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/fast-os-docker/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/fast-os-docker/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/fast-os-docker/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/fast-os-docker/screenshot-3.png
   tagline:
     en_us: Docker Management Tool
     zh_cn: Docker管理工具

@@ -31,10 +31,10 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: Cp0204
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ttydbridge/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ttydbridge/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ttydbridge/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/ttydbridge/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ttydbridge/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/ttydbridge/screenshot-2.png
   description:
     en_us: ttydBridge acts as a "bridge" to the host environment, allowing you to easily access and use the host terminal in a web. It is built on ttyd and runs in a containerized manner, providing a secure and convenient remote endpoint experience.
     zh_cn: ttydBridge 如一座“桥”，连通了宿主机环境，让你在浏览器中轻松访问和使用宿主机终端。它基于 ttyd 构建，并以容器化的方式运行，提供了安全、便捷的远程终端体验。

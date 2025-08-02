@@ -28,13 +28,13 @@ x-casaos:
     en_us: BiliBiliTool is a tool that automatically performs tasks. When we forget to do a certain task, it is like a caring assistant that follows the commands we have given it in advance, helping us complete the planned tasks within the specified frequency and time range.
     zh_cn: BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
   developer: raywangqvq
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/BiliBiliToolPro/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/BiliBiliToolPro/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/BiliBiliToolPro/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/BiliBiliToolPro/screenshot-1.png
   tagline:
     en_us: Automated tool for performing BiliBili tasks.
     zh_cn: 自动执行 BiliBi 任务的工具
-  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/BiliBiliToolPro/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/BiliBiliToolPro/thumbnail.png
   tips:
     before_install:
       en_us: |

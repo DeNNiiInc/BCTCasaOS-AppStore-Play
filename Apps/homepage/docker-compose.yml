@@ -33,9 +33,9 @@ x-casaos:
   category: Beyond Cloud Technology
   author: BCT
   developer: benphelps
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/homepage/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/homepage/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/homepage/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/homepage/screenshot-1.png
   description:
     en_us: A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
     zh_cn: 一个现代化的、完全静态的、快速的、安全的、完全代理的、高度可定制的应用程序仪表板，集成了100多种服务和多种语言的翻译。通过YAML文件或Docker标签发现轻松配置。

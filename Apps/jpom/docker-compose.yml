@@ -40,14 +40,14 @@ x-casaos:
     en_us: Jpom is a low-invasive online construction, automatic deployment, daily operation and maintenance, project monitoring software.
     zh_cn: Jpom是一款简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。
   developer: dromara
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/jpom/icon.svg
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/jpom/icon.svg
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/jpom/screenshot-1.png
-    # - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/jpom/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/jpom/screenshot-1.png
+    # - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/jpom/screenshot-2.png
   tagline:
     en_us: Simple and lightweight low-invasive online build, automated deployment, daily operations, and project monitoring software.
     zh_cn: 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/jpom/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/jpom/thumbnail.png
   title:
     en_us: Jpom
   port_map: "2122"

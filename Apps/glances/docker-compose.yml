@@ -38,13 +38,13 @@ x-casaos:
     en_us: Glances is a top system monitoring tool. It provides a large amount of information about your system resources, such as CPU usage, memory usage, network traffic, disk I/O, processes, and sensors.
     zh_cn: Glances 是一款顶级的系统监控工具。它提供了关于系统资源的大量信息，例如 CPU 使用率、内存使用率、网络流量、磁盘 I/O、进程和传感器。
   developer: nicolargo
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/glances/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/glances/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/glances/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/glances/screenshot-1.png
   tagline:
     en_us: A top system monitoring tool.
     zh_cn: 顶级的系统监控工具。
-  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/glances/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/glances/thumbnail.png
   title:
     en_us: Glances
   port_map: "61208"

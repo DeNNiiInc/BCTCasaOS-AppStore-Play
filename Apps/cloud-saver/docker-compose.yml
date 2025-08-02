@@ -26,15 +26,15 @@ x-casaos:
     en_us: CloudSaver is a web disk resource search and transfer tool. It supports responsive layout and is perfectly adapted to mobile and PC. It can be deployed with one click through Docker.
     zh_cn: 一款网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署。
   developer: jiangrui1994
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/cloud-saver/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cloud-saver/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/cloud-saver/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/cloud-saver/screenshot-2.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/cloud-saver/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cloud-saver/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cloud-saver/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cloud-saver/screenshot-3.png
   tagline:
     en_us: A web disk resource search and transfer tool
     zh_cn: 一款网盘资源搜索与转存工具
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/cloud-saver/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/cloud-saver/thumbnail.png
   tips:
     before_install:
       en_us: |

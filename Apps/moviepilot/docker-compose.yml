@@ -56,10 +56,10 @@ x-casaos:
     zh_cn: MoviePilot 是一个视频管理工具，可以自动下载和管理电影。**MoviePilot V1版本停止功能更新，仅修复重大Bug以及同步更新站点资源包。V2版本新增多项新特性，部分功能重新设计开发，使用独立境像，无法通过V1版本自动升级，同时也不兼容旧版本配置和数据库文件。**
   title:
     en_us: MoviePilot
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/moviepilot/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/moviepilot/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/moviepilot/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/moviepilot/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/moviepilot/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/moviepilot/screenshot-2.png
   index: /
   port_map: "3000"
   tips:

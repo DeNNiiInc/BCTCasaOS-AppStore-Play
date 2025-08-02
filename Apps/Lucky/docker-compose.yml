@@ -26,9 +26,9 @@ x-casaos:
     en_us: A powerful tool for port forwarding, reverse proxy, dynamic DNS, wake-on-LAN, IPv4 NAT traversal, task scheduling, and automatic certificate management.
     zh_cn: 一款功能强大的端口转发、反向代理、动态域名、网络唤醒、IPv4内网穿透、计划任务和自动证书管理工具。
   developer: gdy666
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Lucky/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Lucky/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Lucky/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Lucky/screenshot-1.png
   tagline:
     en_us: Powerful networking tool
     zh_cn: 软硬路由公网神器

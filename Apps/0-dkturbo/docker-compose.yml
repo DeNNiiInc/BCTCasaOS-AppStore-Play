@@ -34,7 +34,7 @@ x-casaos:
     en_us: Docker image accelerator, automatically test the speed and apply the fastest image source. **Non-Chinese users don’t need to use**
     zh_cn: Docker 镜像加速器，自动测速和应用最快镜像源。
   developer: Cp0204
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/0-dkturbo/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/0-dkturbo/icon.png
   tagline:
     en_us: Non-Chinese users don’t need to use
     zh_cn: Docker 镜像加速器，喂饭到你嘴里

@@ -26,13 +26,13 @@ x-casaos:
     en_us: MeTube is a self-hosted YouTube downloader with a web UI for youtube-dl / yt-dlp, enabling easy downloading of your favorite videos.
     zh_cn: MeTube 是一个自托管的 YouTube 下载器，具有 youtube-dl / yt-dlp 的 Web UI，能够轻松下载您喜爱的视频。
   developer: alex
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/metube/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/metube/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/metube/screenshot.gif
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/metube/screenshot.gif
   tagline:
     en_us: Download your favorite videos easily with MeTube!
     zh_cn: 使用 MeTube 轻松下载您喜爱的视频！
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/metube/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/metube/thumbnail.png
   title:
     en_us: MeTube
   scheme: http

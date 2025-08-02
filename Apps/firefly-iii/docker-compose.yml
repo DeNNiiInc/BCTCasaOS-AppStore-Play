@@ -219,11 +219,11 @@ x-casaos:
     en_us: Firefly III is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags. It can import data from external sources and it has many neat financial reports available.
     zh_cn: Firefly III 是一款 (自托管) 个人理财管理工具，它可以帮助你追踪支出和收入，让你少花钱、多存钱。Firefly III 支持使用预算、分类和标签，可以导入外部数据，并提供许多简洁的财务报告。
   developer: Firefly III
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/firefly-iii/icon.svg
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/firefly-iii/icon.svg
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/firefly-iii/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/firefly-iii/screenshot-2.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/firefly-iii/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/firefly-iii/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/firefly-iii/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/firefly-iii/screenshot-3.png
   tagline:
     en_us: Your personal finance manager
     zh_cn: 您的个人财务经理

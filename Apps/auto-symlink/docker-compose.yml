@@ -34,9 +34,9 @@ x-casaos:
     en_us: Auto_Symlink is an automation tool designed to manage cloud drives mounted locally through CloudDrive2/Alist. It creates symbolic links, making it easier for media servers like Emby/Jellyfin/Plex to scrape and read content, while reducing frequent access to the cloud drive.
     zh_cn: Auto_Symlink 是一款自动化工具，专门用于管理通过 CloudDrive2/Alist 挂载到本地的网盘。它能够创建软链接，使得像 Emby/Jellyfin/Plex 这样的媒体服务器能够更容易地刮削和读取内容，同时减少对网盘的频繁访问。
   developer: shenxianmq
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/auto-symlink/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/auto-symlink/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/auto-symlink/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/auto-symlink/screenshot-1.png
   tagline:
     en_us: An automation tool for cloud drive management
     zh_cn: 用于网盘管理的自动化工具

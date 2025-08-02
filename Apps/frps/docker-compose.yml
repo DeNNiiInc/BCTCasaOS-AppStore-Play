@@ -30,7 +30,7 @@ x-casaos:
     en_us: A fast reverse proxy server that helps you expose a local server to the internet. It provides client authentication and supports multiple protocols.
     zh_cn: 一个快速的反向代理服务器，可以帮助您将本地服务器暴露到互联网。它提供客户端认证并支持多种协议。
   developer: snowdreamtech
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/frps/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/frps/icon.png
   main: frps
   tagline:
     en_us: Fast reverse proxy server

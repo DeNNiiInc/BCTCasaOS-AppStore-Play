@@ -63,7 +63,7 @@ x-casaos:
   description:
     en_us: A user-friendly, cross-platform file synchronization software with remarkable transfer speeds as its most significant advantage. VerySync's intelligent P2P technology accelerates synchronization by splitting files into small, data-only segments, and encrypting the files with AES.
     zh_cn: 简单易用的多平台文件同步软件，惊人的传输速度是不同于其他产品的最大优势， 微力同步 的智能 P2P 技术加速同步，会将文件分割成若干份仅 KB 的数据同步，而文件都会进行 AES 加密处理.
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/verysync/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/verysync/icon.png
   screenshot_link:
     - https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/2a/1f/132a1f73-88d1-dc78-7780-68aff89d1f1f/pr_source.png/313x0w.webp
     - https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e0/b3/1d/e0b31d31-b098-a4cb-dcde-dd96655ef6ba/pr_source.png/313x0w.webp

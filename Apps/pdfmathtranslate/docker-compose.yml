@@ -24,13 +24,13 @@ x-casaos:
     en_us: PDF scientific paper translation and bilingual comparison. Preserve formulas, charts, table of contents, and annotations (preview). Support multiple languages, and diverse translation services. Provides commandline tool, interactive user interface, and Docker.
     zh_cn: 科学 PDF 文档翻译及双语对照工具。保留公式、图表、目录和注释 (预览效果)。支持多种语言和诸多翻译服务。提供命令行工具，图形交互界面，以及容器化部署。
   developer: byaidu
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/pdfmathtranslate/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/pdfmathtranslate/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/pdfmathtranslate/screenshot-1.gif
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/pdfmathtranslate/screenshot-1.gif
   tagline:
     en_us: Translate scientific PDFs with ease and precision.
     zh_cn: 轻松精确地翻译科学PDF文档。
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/pdfmathtranslate/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/pdfmathtranslate/thumbnail.png
   tips:
     before_install:
       en_us: Ensure you have the necessary translation API keys configured.

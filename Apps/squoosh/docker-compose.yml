@@ -25,9 +25,9 @@ x-casaos:
     en_us: Squoosh is an open-source image compression tool developed by Google. It provides an intuitive user interface that allows users to preview and compare different compression algorithms in real-time to find the best balance between compression and quality.
     zh_cn: Squoosh 是一款由谷歌开发的开源图片压缩工具，它提供了直观的用户界面，让用户可以在不同压缩算法之间进行实时预览和比较，以便找到最佳的压缩与质量平衡点。
   developer: Google
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/squoosh/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/squoosh/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/squoosh/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/squoosh/screenshot-1.png
   tagline:
     en_us: Image compression app
     zh_cn: 图像压缩应用程序

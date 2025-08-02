@@ -29,16 +29,16 @@ x-casaos:
     en_us: A file list program that supports multiple storage, powered by Gin and Solidjs.
     zh_cn: 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
   developer: Xhofe
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Alist/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Alist/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Alist/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Alist/screenshot-1.png
   main: alist
   port_map: "5244"
   scheme: http
   tagline:
     en_us: A file list program that supports multiple storage
     zh_cn: 一个支持多种存储的文件列表程序
-  thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Alist/thumbnail.png
+  thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Alist/thumbnail.png
   tips:
     before_install:
       en_us: |

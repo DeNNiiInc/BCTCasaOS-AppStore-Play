@@ -32,13 +32,13 @@ x-casaos:
     en_us: Samba SMB server in a Docker container. An implementation of the Windows SMB networking protocol, allowing file sharing between Windows, Linux and macOS systems. [DOC](https://hub.docker.com/r/dockurr/samba)
     zh_cn: Docker 容器中的 Samba SMB 服务器。可以加密码🙃，实现了Windows SMB网络协议，允许在Windows、Linux和macOS系统之间共享文件。[文档](https://hub.docker.com/r/dockurr/samba)
   developer: dockurr
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/samba/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/samba/icon.png
   # screenshot_link:
-  #   - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/samba/screenshot-1.png
+  #   - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/samba/screenshot-1.png
   tagline:
     en_us: Share files across all your devices with SMB protocol
     zh_cn: 使用SMB协议在所有设备间共享文件
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/samba/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/samba/thumbnail.png
   tips:
     before_install:
       en_us: You need to disable the SMB service that comes with the system first to free up port 445, refer to the command `systemctl stop smb && systemctl disable smb`. Default username is `admin` and password is `password`. Please change these credentials after installation for security.

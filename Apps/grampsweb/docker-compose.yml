@@ -63,15 +63,15 @@ x-casaos:
     en_us: Gramps Web is a web-based application designed for collaborative family tree building. It can be accessed from any web-enabled device and is ideal for working with others to build your family tree together. Gramps Web is free and open-source software, prioritizing the privacy and control of your data.
     zh_cn: Gramps Web 是一个基于 Web 的应用程序，专为协作构建家谱而设计。它可以从任何支持 Web 的设备访问，非常适合与他人一起构建家谱。Gramps Web 是免费的开源软件，优先考虑您的数据的隐私和控制。
   developer: Gramps Project
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/grampsweb/icon.svg
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/grampsweb/icon.svg
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/grampsweb/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/grampsweb/screenshot-2.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/grampsweb/screenshot-3.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/grampsweb/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/grampsweb/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/grampsweb/screenshot-3.png
   tagline:
     en_us: Collaborate on your family tree with Gramps Web
     zh_cn: 使用 Gramps Web 协作构建您的家谱
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/grampsweb/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/grampsweb/thumbnail.png
   title:
     en_us: Gramps Web
   scheme: http

@@ -94,13 +94,13 @@ x-casaos:
     en_us: Plant-it is a self-hosted gardening companion app. Useful for keeping track of plant care, receiving notifications about when to water plants, uploading plant images, and more.
     zh_cn: Plant-it是一个自托管的园艺伴侣应用程序。 对于跟踪植物护理、接收有关何时给植物浇水的通知、上传植物图像等非常有用。
   developer: msdeluise
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/plant-it/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/plant-it/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/plant-it/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/plant-it/screenshot-1.png
   tagline:
     en_us: Self-hosted, open source gardening companion app
     zh_cn: 自托管的开源园艺伴侣应用程序
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/plant-it/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/plant-it/thumbnail.png
   title:
       en_us: Plant-it
   index: /

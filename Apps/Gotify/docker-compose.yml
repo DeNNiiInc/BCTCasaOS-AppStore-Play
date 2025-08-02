@@ -26,10 +26,10 @@ x-casaos:
     en_us: A self-hosted push notification service written in Go. It simplifies the sending and receiving of push notifications over multiple platforms.
     zh_cn: 一个使用Go编写的自托管推送通知服务。它简化了在多个平台上发送和接收推送通知的过程。
   developer: jmattheis
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Gotify/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Gotify/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Gotify/screenshot-1.png
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/Gotify/screenshot-2.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Gotify/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/Gotify/screenshot-2.png
   main: gotify
   tagline:
     en_us: a simple server for sending and receiving messages

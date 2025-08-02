@@ -27,13 +27,13 @@ x-casaos:
     en_us: LibreTV is a lightweight, free online video search and viewing platform that provides content search and playback services from multiple video sources. No registration required, ready to use, supports access from multiple devices.
     zh_cn: LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。
   developer: bestzwei
-  icon: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/libretv/icon.png
+  icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/libretv/icon.png
   screenshot_link:
-    - https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/libretv/screenshot-1.png
+    - https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/libretv/screenshot-1.png
   tagline:
     en_us: Free viewing, enjoy the excitement
     zh_cn: 自由观影，畅享精彩
-  # thumbnail: https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/blob/main/Apps/libretv/thumbnail.png
+  # thumbnail: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/libretv/thumbnail.png
   tips:
     before_install:
       en_us: Default password is 'your_password', default admin password is 'your_adminpassword'. Please change them after installation.
