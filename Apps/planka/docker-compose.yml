@@ -10,9 +10,9 @@ services:
           memory: 256M
     restart: unless-stopped
     volumes:
-      - /DATA/AppData/$AppID/user-avatars:/app/public/user-avatars
-      - /DATA/AppData/$AppID/project-background-images:/app/public/project-background-images
-      - /DATA/AppData/$AppID/attachments:/app/private/attachments
+      - /DATA/AppData/Planka/user-avatars:/app/public/user-avatars
+      - /DATA/AppData/Planka/project-background-images:/app/public/project-background-images
+      - /DATA/AppData/Planka/attachments:/app/private/attachments
     ports:
       - 3000:1337
     environment:
@@ -35,7 +35,7 @@ services:
     container_name: planka-postgres
     restart: unless-stopped
     volumes:
-      - /DATA/AppData/$AppID/db-data:/var/lib/postgresql/data
+      - /DATA/AppData/Planka/db-data:/var/lib/postgresql/data
     environment:
       - POSTGRES_DB=planka
       - POSTGRES_HOST_AUTH_METHOD=trust

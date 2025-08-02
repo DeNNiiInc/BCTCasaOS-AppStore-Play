@@ -14,20 +14,20 @@ services:
           memory: 512M
     restart: unless-stopped
     environment:
-      TZ: 'Asia/Shanghai'
+      TZ: 'Australia/Melbourne'
       # 邮箱地址，用于自动申请 https 证书
       EMAIL: 'someone@mereith.com'
       # mongoDB URL
       VAN_BLOG_DATABASE_URL: 'mongodb://vanblog-mongo:27017/vanBlog?authSource=admin'
     volumes:
       # 图床文件的存放地址，按需修改。
-      - /DATA/AppData/$AppID/data/static:/app/static
+      - /DATA/AppData/vanblog/data/static:/app/static
       # 日志文件
-      - /DATA/AppData/$AppID/log:/var/log
+      - /DATA/AppData/vanblog/log:/var/log
       # caddy 配置存储
-      - /DATA/AppData/$AppID/caddy/config:/root/.config/caddy
+      - /DATA/AppData/vanblog/caddy/config:/root/.config/caddy
       # caddy 证书存储
-      - /DATA/AppData/$AppID/caddy/data:/root/.local/share/caddy
+      - /DATA/AppData/vanblog/caddy/data:/root/.local/share/caddy
     ports:
       # 前面的是映射到宿主机的端口号，改端口的话该前面的
       - 8880:80
@@ -41,9 +41,9 @@ services:
     container_name: vanblog-mongo
     restart: unless-stopped
     environment:
-      TZ: 'Asia/Shanghai'
+      TZ: 'Australia/Melbourne'
     volumes:
-      - /DATA/AppData/$AppID/data/mongo:/data/db
+      - /DATA/AppData/vanblog/data/mongo:/data/db
     networks:
       - vanblog
 

@@ -55,7 +55,7 @@ services:
   #     MYSQL_RANDOM_ROOT_PASSWORD: root_pass
   #   volumes:
   #     - type: bind
-  #       source: /DATA/AppData/$AppID/db
+  #       source: /DATA/AppData/wordpress/db
   #       target: /var/lib/mysql
   #   networks:
   #     - wordpress
