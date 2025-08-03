@@ -3,7 +3,7 @@
 🤪 The third-party CasaOS & ZimaOS app store also supports general *Docker Compose* deployment.
 > **Note:** Some of the text below was AI translated from other languages to English and might not be 100% correct.
 
-### Big thanks to the Upstream developer Cp0204, who has been maintaining this app store for a long time.
+### Big thanks to the Upstream developer Cp0204, who has been maintaining the upstream app store for a long time.
 Discover a vibrant third-party app store for CasaOS & ZimaOS, offering an extensive collection of unique and hard-to-find applications not available in the official AppStore. This repository celebrates niche, innovative apps and supports seamless multi-architecture deployments. Much of the foundation and ongoing improvements are thanks to the dedicated efforts of the incredible maintainers upstream—true community heroes whose work makes this ecosystem possible and, we hope, will continue to inspire for years to come.
 
 ... (rest of the file remains unchanged)
