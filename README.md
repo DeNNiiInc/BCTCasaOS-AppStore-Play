@@ -44,7 +44,7 @@ This is just a generic version, please add the following sources corresponding t
 
 
 ### Arm-specific Source
-- **:warning: Please note that the ARM section is the work of the upstream developer Cp0204, and the following links are provided for convenience. If you have any issues with these sources, please contact the upstream developer.**
+- **:warning: Please note that the ARM section is the work of the upstream developer Cp0204 https://github.com/Cp0204/CasaOS-AppStore-Play , and the following links are provided for convenience. If you have any issues with these sources, please contact the upstream developer.**
 
 - **arm/armv7/armhf** (Wankeyun, etc.)
 
