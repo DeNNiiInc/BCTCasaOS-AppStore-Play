@@ -1,11 +1,12 @@
 # CasaOS-AppStore-Play
 
-🤪 The third-party CasaOS app store also supports general *Docker Compose* deployment.
+🤪 The third-party CasaOS & ZimaOS app store also supports general *Docker Compose* deployment.
+> **Note:** Some of the text below was AI translated from other languages to English and might not be 100% correct.
 
 ### Big thanks to the Upstream developer Cp0204, who has been maintaining this app store for a long time.
-This is a third-party app store for CasaOS, providing a variety of applications that are not available in the official AppStore. It includes niche featured apps and supports multi-architecture deployments.
+Discover a vibrant third-party app store for CasaOS & ZimaOS, offering an extensive collection of unique and hard-to-find applications not available in the official AppStore. This repository celebrates niche, innovative apps and supports seamless multi-architecture deployments. Much of the foundation and ongoing improvements are thanks to the dedicated efforts of the incredible maintainers upstream—true community heroes whose work makes this ecosystem possible and, we hope, will continue to inspire for years to come.
 
-
+... (rest of the file remains unchanged)
 
 🔽 [App List](#app-list)
 
@@ -31,8 +32,7 @@ bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)
  - Niche Featured Apps
  - Support for Multi-arch & Fix armv7 [👇🏻](#arch-specific-source--)
 
-> [!NOTE]
-> This store app uses the `:latest` tag, so the `┆` check for updates function in the upper right corner of the app will be disabled, but **you can manually edit the app settings once (without changing anything) to get the latest image.** The good thing is that you can always get the latest version of the app even if the store source is unmaintained.
+> **Note:** This store app uses the `:latest` tag, so the `┆` check for updates function in the upper right corner of the app will be disabled, but **you can manually edit the app settings once (without changing anything) to get the latest image.** The good thing is that you can always get the latest version of the app even if the store source is unmaintained.
 
 ## Source link
 
