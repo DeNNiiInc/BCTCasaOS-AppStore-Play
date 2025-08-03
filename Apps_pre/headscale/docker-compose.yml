@@ -76,7 +76,7 @@ networks:
     name: headscale
 
 x-casaos:
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: An open source, self-hosted implementation of the Tailscale control server.

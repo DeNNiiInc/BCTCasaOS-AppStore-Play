@@ -45,7 +45,7 @@ x-casaos:
     - arm64
     - amd64
   main: wikijs
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Wiki.js is a powerful and extensible open source wiki software built on Node.js.

@@ -28,7 +28,7 @@ x-casaos:
     - amd64
   main: 0-dkturbo
   store_app_id: 0-dkturbo
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Docker image accelerator, automatically test the speed and apply the fastest image source. **Non-Chinese users don’t need to use**

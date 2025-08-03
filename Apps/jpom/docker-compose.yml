@@ -34,7 +34,7 @@ x-casaos:
     - amd64
   main: jpom
   store_app_id: jpom
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Jpom is a low-invasive online construction, automatic deployment, daily operation and maintenance, project monitoring software.

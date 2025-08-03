@@ -23,7 +23,7 @@ x-casaos:
     - arm
   main: xiaomusic
   store_app_id: xiaomusic
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Unlimited listening to songs, liberate Xiaoai speakers. Play music with Xiaoai speakers, and download music using yt-dlp.

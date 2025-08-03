@@ -26,7 +26,7 @@ x-casaos:
     - amd64
   main: samba
   store_app_id: samba
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Samba SMB server in a Docker container. An implementation of the Windows SMB networking protocol, allowing file sharing between Windows, Linux and macOS systems. [DOC](https://hub.docker.com/r/dockurr/samba)

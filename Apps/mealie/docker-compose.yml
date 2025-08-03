@@ -32,7 +32,7 @@ x-casaos:
     - arm64
     - amd64
   main: mealie
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family.

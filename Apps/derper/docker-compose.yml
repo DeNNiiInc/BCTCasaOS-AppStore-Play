@@ -29,7 +29,7 @@ x-casaos:
   architectures:
     - amd64
     - arm64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Tailscale Derper is a lightweight utility that allows you to serve your own Tailscale relays for better performance and control over your network traffic. Configure your DERP server with ease and enhance your Tailscale VPN experience.

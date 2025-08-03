@@ -47,7 +47,7 @@ x-casaos:
     - arm64
     - amd64
   main: xiaoju-survey
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: XIAOJUSURVEY is a lightweight and secure questionnaire system base, providing individuals and enterprises with a one-stop product-level solution to quickly meet various online survey scenarios.

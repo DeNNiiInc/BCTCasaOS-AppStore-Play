@@ -132,7 +132,7 @@ x-casaos:
     - arm64
   main: n8n
   store_app_id: ai-starter-kit
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: "Self-hosted AI Starter Kit is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment. It combines the self-hosted n8n platform with a curated list of compatible AI products and components to quickly get started with building self-hosted AI workflows."

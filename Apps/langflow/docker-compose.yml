@@ -26,7 +26,7 @@ x-casaos:
     - amd64
   main: langflow
   store_app_id: langflow
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, customizable, and LLM and vector store agnostic. Its intuitive interface allows easy manipulation of AI building blocks, enabling rapid prototyping and turning ideas into real-world solutions.

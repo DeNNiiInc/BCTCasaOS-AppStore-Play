@@ -25,7 +25,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Tailscale lets you connect your devices and users together in your own secure virtual private network. Tailscale enables encrypted point-to-point connections using the open source WireGuard protocol.

@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Apps",
-    "\\Apps\\cloudflared-web",
     "\\Apps\\paperless-ngx",
+    "\\Apps\\tdarr",
     "\\Apps\\vscode"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Apps\\tdarr\\docker-compose.yml",
   "PreviewInSolutionExplorer": false
 }

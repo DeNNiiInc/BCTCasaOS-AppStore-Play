@@ -25,7 +25,7 @@ x-casaos:
     - arm
     - arm64
   main: php-nginx
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: A Docker application that combines PHP-FPM and Nginx to serve PHP websites. It provides a convenient setup for running PHP applications with an Nginx web server.

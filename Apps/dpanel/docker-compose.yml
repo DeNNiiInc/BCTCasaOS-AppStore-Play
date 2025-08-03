@@ -29,7 +29,7 @@ x-casaos:
     - amd64
   main: dpanel
   store_app_id: dpanel
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: A Docker visualization management panel that provides complete container management functions. Easy-to-use full Chinese interface, container-based easy installation, and low resource consumption.

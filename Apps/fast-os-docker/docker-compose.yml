@@ -35,7 +35,7 @@ x-casaos:
     - arm
     - arm64
   main: fastosdocker
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: FAST OS DOCKER is a graphical management tool for Docker, providing users with Docker overview, local container management, remote image pulling, server disk mapping, server network management, and more. It can meet the container management needs of small to medium-sized organizations.

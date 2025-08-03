@@ -45,7 +45,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: 'Supporting multi -file upload, simple countless data library, returning picture URL, Markdown, bbscode, html picture warehouse program. Demo: https://png.cm/'

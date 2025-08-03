@@ -24,7 +24,7 @@ x-casaos:
     - amd64
     - arm
     - arm64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: A fast reverse proxy server that helps you expose a local server to the internet. It provides client authentication and supports multiple protocols.

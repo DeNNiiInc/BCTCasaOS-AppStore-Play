@@ -19,7 +19,7 @@ x-casaos:
     - amd64
   main: squoosh
   store_app_id: squoosh
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Squoosh is an open-source image compression tool developed by Google. It provides an intuitive user interface that allows users to preview and compare different compression algorithms in real-time to find the best balance between compression and quality.

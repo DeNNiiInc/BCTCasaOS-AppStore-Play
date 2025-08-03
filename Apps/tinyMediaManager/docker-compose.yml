@@ -29,7 +29,7 @@ x-casaos:
   architectures:
     - amd64
     - arm64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: tinyMediaManager is a media management tool written in Java/Swing. It is designed to provide a simple and intuitive interface for organizing and managing your media collection.

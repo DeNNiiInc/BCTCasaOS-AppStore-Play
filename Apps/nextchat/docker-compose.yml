@@ -36,7 +36,7 @@ x-casaos:
     - amd64
     - arm64
   main: nextchat
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: An intelligent chat application based on ChatGPT, supports fast deployment, Markdown, beautiful UI, fluid response, privacy and security, and allows customization of preset roles for quick creation, sharing, and debugging of personalized conversations.

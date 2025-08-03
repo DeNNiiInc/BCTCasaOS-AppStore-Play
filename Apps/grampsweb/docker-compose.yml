@@ -57,7 +57,7 @@ x-casaos:
     - amd64
   main: grampsweb
   store_app_id: grampsweb
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Gramps Web is a web-based application designed for collaborative family tree building. It can be accessed from any web-enabled device and is ideal for working with others to build your family tree together. Gramps Web is free and open-source software, prioritizing the privacy and control of your data.

@@ -69,7 +69,7 @@ x-casaos:
     - arm64
   main: tdarr
   store_app_id: tdarr
-  author: BCT
+  author: Cp0204
   developer: haveagitgat
   icon: https://filedn.com/ltuKYRdlbf4BG2UkSiE8r7b/GITHUB/CASAOS/BCTCasaOS-AppStore-Play-main/Apps/tdarr/icon.png
   screenshot_link:

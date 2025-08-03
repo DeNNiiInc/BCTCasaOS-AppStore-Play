@@ -23,7 +23,7 @@ x-casaos:
     - arm64
   main: surveyking
   store_app_id: surveyking
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: SurveyKing is an open-source survey, exam, and voting system with features comparable to commercial systems.

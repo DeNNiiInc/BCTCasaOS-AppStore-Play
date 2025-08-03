@@ -106,7 +106,7 @@ x-casaos:
     - arm64
     - amd64
   main: penpot-frontend
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Penpot is the first open-source design and prototyping platform meant for cross-domain teams. Designers craft beautiful interfaces with professional vector tools, while developers inspect the code in real-time.

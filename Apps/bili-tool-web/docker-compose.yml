@@ -23,7 +23,7 @@ x-casaos:
     - arm
   main: bili-tool-web
   store_app_id: bili-tool-web
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: BiliTool is an automated task execution tool that acts as a helpful assistant, following pre-configured commands to complete planned tasks within specified frequencies and timeframes when we forget to do them.

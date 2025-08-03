@@ -27,7 +27,7 @@ x-casaos:
     - amd64
   main: music-tag-web
   store_app_id: music-tag-web
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: 'Music Tag Web is a music tag editor program that can edit song title, album, artist, lyrics, cover and other information, supporting FLAC, APE, WAV, AIFF, WV, TTA, MP3, M4A, OGG, MPC, OPUS, WMA, DSF, DFF, MP4 and other audio formats.'

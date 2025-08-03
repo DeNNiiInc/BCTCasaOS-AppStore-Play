@@ -34,7 +34,7 @@ x-casaos:
     - arm64
     - arm
   main: gopeed
-  author: BCT
+  author: Cp0204
   developer: GopeedLab
   category: Beyond Cloud Technology
   description:

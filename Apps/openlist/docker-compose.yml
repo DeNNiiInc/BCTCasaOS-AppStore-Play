@@ -25,7 +25,7 @@ x-casaos:
     - arm
   main: openlist
   store_app_id: openlist
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: A file list program that supports multiple storages, powered by Gin and SolidJS, fork of AList.

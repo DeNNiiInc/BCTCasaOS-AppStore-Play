@@ -23,7 +23,7 @@ x-casaos:
     - arm64
   main: gemini-next-chat
   store_app_id: gemini-next-chat
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: Deploy your private Gemini Next Chat application easily. Supports Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro, and Gemini Pro Vision models. Includes multimodal support (images, videos, audio, text documents), voice mode, visual recognition, assistant marketplace, plugins (web search, web page interpretation, paper search, real-time weather), conversation history, Artifact support, full Markdown support, context compression, local data storage, PWA support, responsive design with dark mode, fast loading, and static deployment options.

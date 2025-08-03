@@ -36,7 +36,7 @@ x-casaos:
     - amd64
   main: beancount-gs
   store_app_id: beancount-gs
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: This project provides a RESTful API service (including front-end pages) for personal accounting and financial management based on beancount.Beancount is an excellent open-source double-entry bookkeeping tool. Because it is based on text recording, it is difficult to extend to the mobile terminal. This project aims to encapsulate common accounting behaviors into RESTful API.

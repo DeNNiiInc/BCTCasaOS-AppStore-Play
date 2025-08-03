@@ -26,7 +26,7 @@ x-casaos:
   architectures:
     - arm64
     - amd64
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: AutoFilm obtains video playback links from cloud disks through Webdav provided by Alist and generates Strm files, which can be recognized and played directly by audio and video media servers such as Jellyfin/Emby.

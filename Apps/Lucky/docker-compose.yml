@@ -20,7 +20,7 @@ x-casaos:
     - arm
     - arm64
   main: lucky
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: A powerful tool for port forwarding, reverse proxy, dynamic DNS, wake-on-LAN, IPv4 NAT traversal, task scheduling, and automatic certificate management.

@@ -30,7 +30,7 @@ x-casaos:
     - amd64
   main: dweebui
   store_app_id: dweebui
-  author: BCT
+  author: Cp0204
   category: Beyond Cloud Technology
   description:
     en_us: DweebUI is a free and open-source WebUI for managing Docker containers. It provides a user-friendly dashboard for monitoring container performance, managing container lifecycles, and configuring container settings.
