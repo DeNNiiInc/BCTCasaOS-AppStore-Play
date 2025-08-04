@@ -18,7 +18,7 @@ services:
     deploy:
       resources:
         reservations:
-          memory: 512M
+          memory: 256M
         limits:
           memory: 1G
 
