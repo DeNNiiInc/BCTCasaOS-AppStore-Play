@@ -11,16 +11,16 @@ services:
     environment:
       - WEB__PASSWORD=password
       - RCON__ADDRESS=172.17.0.1:25575
-      - RCON__PASSWORD=adminPasswordHere
+      - RCON__PASSWORD=BCTWorldAdmin
       - SAVE__PATH=/game
       - SAVE__SYNC_INTERVAL=120
     network_mode: bridge
     deploy:
       resources:
         reservations:
-          memory: 256M
+          memory: 512M
         limits:
-          memory: 256M
+          memory: 1G
 
 x-casaos:
   architectures:
