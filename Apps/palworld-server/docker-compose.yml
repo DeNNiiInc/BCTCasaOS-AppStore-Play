@@ -9,18 +9,42 @@ services:
       - 27015:27015/udp
       - 25575:25575/tcp
     environment:
-      - PUID=1000
+      - ADMIN_PASSWORD=BCTWorldAdmin
+      - ALLOW_GLOBAL_PALBOX_EXPORT=True
+      - ALLOW_GLOBAL_PALBOX_IMPORT=True
+      - AUTO_SAVE_SPAN=30.000000
+      - BASE_CAMP_MAX_NUM=128
+      - BASE_CAMP_WORKER_MAX_NUM=30
+      - COMMUNITY=True
+      - DEATH_PENALTY=None
+      - DROP_ITEM_ALIVE_MAX_HOURS=1.000000
+      - ENABLE_AIM_ASSIST_KEYBOARD=False
+      - ENABLE_AIM_ASSIST_PAD=True
+      - ENABLE_NON_LOGIN_PENALTY=True
+      - ENEMY_DROP_ITEM_RATE=1.000000
+      - EQUIPMENT_DURABILITY_DAMAGE_RATE=1.000000
+      - EXP_RATE=1.000000
+      - IS_MULTIPLAY=True
+      - MULTITHREADING=True
+      - PAL_AUTO_HP_REGEN_RATE=1.000000
+      - PAL_CAPTURE_RATE=1.000000
+      - PAL_DAMAGE_RATE_ATTACK=1.000000
+      - PAL_DAMAGE_RATE_DEFENSE=1.000000
+      - PAL_EGG_DEFAULT_HATCHING_TIME=72.000000
       - PGID=1000
-      - PORT=8211 #
-      - PLAYERS=32 #
-      - MULTITHREADING=true
-      - RCON_ENABLED=true
+      - PLAYER_AUTO_HP_REGEN_RATE=1.000000
+      - PLAYER_DAMAGE_RATE_ATTACK=1.000000
+      - PLAYER_DAMAGE_RATE_DEFENSE=1.000000
+      - PLAYER_STAMINA_DECREASE_RATE=1.000000
+      - PLAYER_STOMACH_DECREASE_RATE=1.000000
+      - PLAYERS=32
+      - PORT=8211
+      - PUID=1000
+      - RCON_ENABLED=True
       - RCON_PORT=25575
+      - SERVER_NAME=BCT Pal World
+      - SERVER_PASSWORD=
       - TZ=Australia/Melbourne
-      - COMMUNITY=True  # Will require Server password is specified above
-      - SERVER_NAME="BCT Pal World"
-      - SERVER_PASSWORD="BCTWorld" #
-      - ADMIN_PASSWORD="BCTWorldAdmin"
     volumes:
       - /DATA/AppData/palworld-server:/palworld/
     network_mode: bridge
