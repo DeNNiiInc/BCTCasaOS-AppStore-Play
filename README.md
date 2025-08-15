@@ -37,7 +37,7 @@ bash <(wget -qO- https://play.cuse.eu.org/casaos_newbie.sh)
 ## Source link
 
 ```
-https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/archive/refs/heads/main.zip
+https://github.com/DeNNiiInc/BCTCasaOS-AppStore-Play/releases/download/new/AppStore_amd64.zip
 ```
 
 This is just a generic version, please add the following sources corresponding to the architecture for best support if possible.

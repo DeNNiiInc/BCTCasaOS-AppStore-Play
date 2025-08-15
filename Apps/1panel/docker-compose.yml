@@ -7,7 +7,7 @@ services:
         reservations:
           memory: 512M
     environment:
-      - TZ=Asia/Shanghai
+      - TZ=Australia/Melbourne
     hostname: 1panel
     image: moelin/1panel:latest
     restart: unless-stopped
