@@ -17,6 +17,7 @@ x-n8n: &service-n8n
     - N8N_SECURE_COOKIE=false
     - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
     - N8N_RUNNERS_ENABLED=true
+    - WEBHOOK_URL=https://your-domain.com
 
 services:
 
@@ -117,7 +118,7 @@ services:
       - OLLAMA_HOST=ollama:11434
     command:
       - "-c"
-      - "sleep 3; ollama pull llama3.2"
+      - "sleep 3; ollama pull llama3.2"; ollama pull deepseek-r1:1.5b"
     depends_on:
       - ollama
 
