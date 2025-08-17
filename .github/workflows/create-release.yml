@@ -67,18 +67,6 @@ jobs:
           zip AppStore.zip $(find . -type f \( -wholename "./*.json" -o -wholename "./Apps/*.yml" \))
           universal_count=$(find ./Apps/ -name "*.yml" | wc -l)
 
-          # Build arm
-          [ -d "./Apps_arm" ] && cp -rfu ./Apps_arm/*   ./Apps/
-          zip AppStore_arm.zip   $(find . -type f -wholename "./*.json" && find . -type f -wholename "./Apps/*.yml" -exec grep -rlPz 'x-casaos:\s*\n\s*architectures:[\n\s\w-#]*- arm\s*\n' {} \;)
-          arm_count=$(find . -type f -wholename "./Apps/*.yml" -exec grep -rlPz 'x-casaos:\s*\n\s*architectures:[\n\s\w-#]*- arm\s*\n' {} \; | wc -l)
-          git checkout -- ./Apps && git clean -df ./Apps
-
-          # Build arm64
-          [ -d "./Apps_arm64" ] && cp -rfu ./Apps_arm64/* ./Apps/
-          zip AppStore_arm64.zip $(find . -type f -wholename "./*.json" && find . -type f -wholename "./Apps/*.yml" -exec grep -rlPz 'x-casaos:\s*\n\s*architectures:[\n\s\w-#]*- arm64\s*\n' {} \;)
-          arm64_count=$(find . -type f -wholename "./Apps/*.yml" -exec grep -rlPz 'x-casaos:\s*\n\s*architectures:[\n\s\w-#]*- arm64\s*\n' {} \; | wc -l)
-          git checkout -- ./Apps && git clean -df ./Apps
-
           # Build amd64
           [ -d "./Apps_amd64" ] && cp -rfu ./Apps_amd64/* ./Apps/
           zip AppStore_amd64.zip $(find . -type f -wholename "./*.json" && find . -type f -wholename "./Apps/*.yml" -exec grep -rlPz 'x-casaos:\s*\n\s*architectures:[\n\s\w-#]*- amd64\s*\n' {} \;)
@@ -96,8 +84,6 @@ jobs:
         with:
           files: |
             AppStore.zip
-            AppStore_arm.zip
-            AppStore_arm64.zip
             AppStore_amd64.zip
           tag_name: new
           name: "v${{ steps.get_commit_messages.outputs.release_date }}"
