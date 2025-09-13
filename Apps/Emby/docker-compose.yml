@@ -1,0 +1,64 @@
+name: linuxserver-emby
+services:
+  app:
+    image: linuxserver/emby:latest
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      NVIDIA_VISIBLE_DEVICES: all
+      NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+    x-casaos:
+      envs:
+        - container: PUID
+          description:
+            en_us: Run 'id [USER]' for the owner of the host volume directories to get the UID to use here.
+        - container: PGID
+          description:
+            en_us: Run 'id [USER]' for the owner of the host volume directories to get the GID to use here.
+        - container: TZ
+          description:
+            en_us: specify a timezone to use, see this list.
+    ports:
+      - target: 8096
+        published: 8096
+        protocol: tcp
+      - target: 8920
+        published: 8920
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: /srv/lsio/emby/config
+        target: /config
+      - type: bind
+        source: /srv/lsio/emby/data/tvshows
+        target: /data/tvshows
+      - type: bind
+        source: /srv/lsio/emby/data/movies
+        target: /data/movies
+      - type: bind
+        source: /opt/vc/lib
+        target: /opt/vc/lib
+    devices:
+      - /dev/dri:/dev/dri
+      - /dev/nvidia0:/dev/nvidia0
+      - /dev/nvidiactl:/dev/nvidiactl
+      - /dev/nvidia-uvm:/dev/nvidia-uvm
+    runtime: nvidia
+x-casaos:
+  architectures:
+    - amd64
+    - arm64
+  main: app
+  description:
+    en_us: Emby NVIDIA+CPU organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container includes NVIDIA GPU acceleration with automatic CPU fallback for optimal transcoding performance.
+  tagline:
+    en_us: Organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container includes NVIDIA GPU acceleration with automatic CPU fallback for optimal transcoding performance.
+  developer: LinuxServer.io
+  author: WisdomSky
+  icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/emby-logo.png
+  thumbnail: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/emby-logo.png
+  title:
+    en_us: Emby NVIDIA+CPU
+  category: Beyond Cloud Technology

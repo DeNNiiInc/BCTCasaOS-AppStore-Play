@@ -69,7 +69,7 @@ x-casaos:
     - amd64
     - arm64
   author: CasaOS Team
-  category: Media
+  category: Beyond Cloud Technology
   description:
     de_DE: >
       Jellyfin hebt sich unter den Medienserver-Anwendungen durch sein
